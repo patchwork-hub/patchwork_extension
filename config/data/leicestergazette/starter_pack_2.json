@@ -1,0 +1,2079 @@
+[
+  {
+    "id": "116059055800788015",
+    "username": "apache_be",
+    "acct": "apache_be@mastodon.online",
+    "display_name": "apache/",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2022-11-02T00:00:00.000Z",
+    "note": "\u003cp\u003eApache is een onafhankelijk, progressief en advertentievrij nieuwsmedium. Onze onderzoeksjournalisten nemen de tijd om bloot te leggen wat er misloopt. Zo lees je op apache.be elke dag wat iedereen zou moeten weten. \u003c/p\u003e\u003cp\u003eVier keer per jaar brengen we ook Apache Magazine uit: onderzoeken, analyses, essays, poëzie, columns en graphic journalism op papier!\u003c/p\u003e\u003cp\u003eApache (Magazine) wordt uitgegeven door de coöperatie De Werktitel.\u003c/p\u003e",
+    "url": "https://mastodon.online/@apache_be",
+    "uri": "https://mastodon.online/users/apache_be",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/059/055/800/788/015/original/cb64b799a0f81445.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/059/055/800/788/015/original/cb64b799a0f81445.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/059/055/800/788/015/original/08d6d879f5271c5e.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/059/055/800/788/015/original/08d6d879f5271c5e.png",
+    "followers_count": 3339,
+    "following_count": 91,
+    "statuses_count": 2917,
+    "last_status_at": "2026-02-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Online",
+        "value": "\u003ca href=\"https://www.apache.be\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eapache.be\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:16:23.161+00:00"
+      },
+      {
+        "name": "Magazine",
+        "value": "\u003ca href=\"https://www.apache.be/magazine\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eapache.be/magazine\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:16:23.334+00:00"
+      },
+      {
+        "name": "Pixelfed",
+        "value": "\u003ca href=\"https://pixelfed.social/apache.be\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/apache.be\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Steun Apache",
+        "value": "\u003ca href=\"https://apache.be/steunapache?mtm_campaign=Mastodon\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003eapache.be/steunapache?mtm_camp\u003c/span\u003e\u003cspan class=\"invisible\"\u003eaign=Mastodon\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:16:23.729+00:00"
+      }
+    ]
+  },
+  {
+    "id": "116215427940395022",
+    "username": "DatarchivSCOP",
+    "acct": "DatarchivSCOP@mastodon.scop.coop",
+    "display_name": "Dat@rchiv SCOP",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-01-06T00:00:00.000Z",
+    "note": "\u003cp\u003eGestion de l'information \u003cbr\u003eAudit - Conseil - Formation - Traitement -\u003cbr\u003e\u003ca href=\"https://mastodon.scop.coop/tags/Archives\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eArchives\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Donn%C3%A9es\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDonnées\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/RGPD\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eRGPD\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e \u003cbr\u003econtact@datarchiv.coop \u003cbr\u003e\u003ca href=\"https://datarchiv-coop.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edatarchiv-coop.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@DatarchivSCOP",
+    "uri": "https://mastodon.scop.coop/users/DatarchivSCOP",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/940/395/022/original/1dbdb150eff5630c.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/940/395/022/original/1dbdb150eff5630c.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/940/395/022/original/c5ee105b5a83e568.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/940/395/022/original/c5ee105b5a83e568.png",
+    "followers_count": 12,
+    "following_count": 4,
+    "statuses_count": 0,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215427876613334",
+    "username": "Spirkop",
+    "acct": "Spirkop@mastodon.scop.coop",
+    "display_name": "Spirkop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-24T00:00:00.000Z",
+    "note": "\u003cp\u003eSociété coopérative en développement informatique basée à Caen.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@Spirkop",
+    "uri": "https://mastodon.scop.coop/users/Spirkop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/876/613/334/original/3368eae703fab32b.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/876/613/334/original/3368eae703fab32b.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 4,
+    "following_count": 1,
+    "statuses_count": 0,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.spirkop.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003espirkop.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215427799075593",
+    "username": "axus",
+    "acct": "axus@mastodon.scop.coop",
+    "display_name": "Axus conseil",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-11-25T00:00:00.000Z",
+    "note": "",
+    "url": "https://mastodon.scop.coop/@axus",
+    "uri": "https://mastodon.scop.coop/users/axus",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/799/075/593/original/9a0db290e5f7be11.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/799/075/593/original/9a0db290e5f7be11.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/799/075/593/original/68fe8f6f77c63e40.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/799/075/593/original/68fe8f6f77c63e40.png",
+    "followers_count": 9,
+    "following_count": 3,
+    "statuses_count": 0,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Qui ?",
+        "value": "\u003ca href=\"https://axus-conseil.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eaxus-conseil.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Quoi ?",
+        "value": "Conseil en architecture d’entreprise et urbanisation de SI",
+        "verified_at": null
+      },
+      {
+        "name": "Comment ?",
+        "value": "Scop, coopération, participation, méthode",
+        "verified_at": null
+      },
+      {
+        "name": "Où ?",
+        "value": "Lyon, Rhône-Alpes",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215427724418818",
+    "username": "toutenvelolyon",
+    "acct": "toutenvelolyon@mastodon.scop.coop",
+    "display_name": "Toutenvélo Lyon",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-12-09T00:00:00.000Z",
+    "note": "\u003cp\u003eToutenvélo Lyon est une coopérative SCOP de transport de marchandises à vélo, de 0 à 300 kg, à Lyon et Villeurbanne.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@toutenvelolyon",
+    "uri": "https://mastodon.scop.coop/users/toutenvelolyon",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/724/418/818/original/6f5daaceb2dc0821.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/724/418/818/original/6f5daaceb2dc0821.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/724/418/818/original/b347d02f23bdbdb2.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/724/418/818/original/b347d02f23bdbdb2.png",
+    "followers_count": 66,
+    "following_count": 10,
+    "statuses_count": 6,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215427633046591",
+    "username": "troopers",
+    "acct": "troopers@mastodon.scop.coop",
+    "display_name": "Troopers",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-11-28T00:00:00.000Z",
+    "note": "\u003cp\u003eTroopers agence numérique agile et responsable structurée en SCOP. Design thinking, UX/UI, Développement Front (\u003ca href=\"https://mastodon.scop.coop/tags/React\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eReact\u003c/span\u003e\u003c/a\u003e) \u0026amp; Back (\u003ca href=\"https://mastodon.scop.coop/tags/Symfony\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSymfony\u003c/span\u003e\u003c/a\u003e), Formations (OF), TMA.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@troopers",
+    "uri": "https://mastodon.scop.coop/users/troopers",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/633/046/591/original/e13c003d97a59ed3.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/633/046/591/original/e13c003d97a59ed3.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/633/046/591/original/90f8857b4c7ac40a.jpeg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/633/046/591/original/90f8857b4c7ac40a.jpeg",
+    "followers_count": 86,
+    "following_count": 12,
+    "statuses_count": 27,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://troopers.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etroopers.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://slash.troopers.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eslash.troopers.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116096441923890990",
+    "username": "copsae",
+    "acct": "copsae@mastodon.scop.coop",
+    "display_name": "Copsaé",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-04-20T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopération pour des projets web avec du sens, de l’accessibilité et de l’éthique - Activité professionnelle de Julie Moynat\u003c/p\u003e\u003cp\u003eJ’exerce mon activité de consultante en accessibilité web et développeuse de sites web accessibles au sein de la SCOP CAE L'Ouvre-Boîtes, à Nantes.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.scop.coop/tags/accessibilit%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eaccessibilité\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/a11y\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ea11y\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/RGAA\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eRGAA\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/WCAG\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eWCAG\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/WordPress\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eWordPress\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/CAE\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCAE\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@copsae",
+    "uri": "https://mastodon.scop.coop/users/copsae",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/096/441/923/890/990/original/fdd9834a84755368.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/096/441/923/890/990/original/fdd9834a84755368.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 216,
+    "following_count": 110,
+    "statuses_count": 43,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.copsae.fr/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecopsae.fr/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:18:36.928+00:00"
+      },
+      {
+        "name": "Localisation",
+        "value": "Nantes, France",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215427542709473",
+    "username": "UTOP",
+    "acct": "UTOP@mastodon.scop.coop",
+    "display_name": "UTOP",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-04-07T00:00:00.000Z",
+    "note": "\u003cp\u003eUTOP est une coopérative d'habitants sociale et UTOP Habitat (La Pastèque) est une association culturelle à Paris XXeme\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@UTOP",
+    "uri": "https://mastodon.scop.coop/users/UTOP",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/542/709/473/original/933d00815dacdc95.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/542/709/473/original/933d00815dacdc95.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/542/709/473/original/f91f8eb94c758fe9.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/542/709/473/original/f91f8eb94c758fe9.jpg",
+    "followers_count": 9,
+    "following_count": 28,
+    "statuses_count": 14,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://coop-utop.fr/blog/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoop-utop.fr/blog/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Événements",
+        "value": "\u003ca href=\"https://mobilizon.fr/@utop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emobilizon.fr/@utop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215427478847035",
+    "username": "ScenariKelis",
+    "acct": "ScenariKelis@mastodon.scop.coop",
+    "display_name": "Kelis",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-02-22T00:00:00.000Z",
+    "note": "\u003cp\u003eÉditeur des solutions logicielles libres Scenari (scenari.software)\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@ScenariKelis",
+    "uri": "https://mastodon.scop.coop/users/ScenariKelis",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/478/847/035/original/750b62cbe215986f.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/478/847/035/original/750b62cbe215986f.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 49,
+    "following_count": 4,
+    "statuses_count": 56,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215427407967204",
+    "username": "cooprietaires",
+    "acct": "cooprietaires@mastodon.scop.coop",
+    "display_name": "SCIC Coopriétaires",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-10-03T00:00:00.000Z",
+    "note": "\u003cp\u003eSociété coopérative visant à constituer un vaste parc de logements coopératifs, en habitat diffus, dans un premier temps au sein de l’agglomération lyonnaise.\u003c/p\u003e\u003cp\u003eSouscrire ! : \u003ca href=\"https://souscription.cooprietaires.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esouscription.cooprietaires.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e- \u003ca href=\"https://cooprietaires.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecooprietaires.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e- \u003ca href=\"https://www.linkedin.com/company/cooprietaires/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003elinkedin.com/company/cooprieta\u003c/span\u003e\u003cspan class=\"invisible\"\u003eires/\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@cooprietaires",
+    "uri": "https://mastodon.scop.coop/users/cooprietaires",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/407/967/204/original/00a5dc9a172c14f9.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/407/967/204/original/00a5dc9a172c14f9.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/407/967/204/original/b29fafaa377e00e7.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/407/967/204/original/b29fafaa377e00e7.jpg",
+    "followers_count": 112,
+    "following_count": 10,
+    "statuses_count": 16,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215427335013456",
+    "username": "transition_numerique_libre",
+    "acct": "transition_numerique_libre@mastodon.scop.coop",
+    "display_name": "Transition Numérique Libre",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2026-02-11T00:00:00.000Z",
+    "note": "\u003cp\u003eLibérez votre entreprise des outils propriétaires avec Transition Numérique Libre\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@transition_numerique_libre",
+    "uri": "https://mastodon.scop.coop/ap/users/116052849315185537",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/335/013/456/original/b081bbe09aae4860.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/335/013/456/original/b081bbe09aae4860.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/335/013/456/original/3dd3d5fe80c1a7d2.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/335/013/456/original/3dd3d5fe80c1a7d2.png",
+    "followers_count": 16,
+    "following_count": 209,
+    "statuses_count": 7,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.transition-numerique-libre.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003etransition-numerique-libre.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215427256272018",
+    "username": "graoucoop",
+    "acct": "graoucoop@mastodon.scop.coop",
+    "display_name": "Graoucoop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-10-03T00:00:00.000Z",
+    "note": "\u003cp\u003eLe supermarché qui appartient à ses client•es !\u003cbr\u003e1er supermarché coopératif et participatif de Metz\u003c/p\u003e\u003cp\u003e📍  124 avenue André Malraux - Metz\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://graoucoop.fr/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egraoucoop.fr/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003einfo@graoucoop.fr\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.scop.coop/tags/supermarch%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003esupermarché\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/coop%C3%A9ratif\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecoopératif\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/participatif\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eparticipatif\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Metz\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eMetz\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/ESS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eESS\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Scic\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eScic\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@graoucoop",
+    "uri": "https://mastodon.scop.coop/users/graoucoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/256/272/018/original/8df68b7fb5ef8137.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/256/272/018/original/8df68b7fb5ef8137.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/256/272/018/original/a0efb9126ae0861d.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/256/272/018/original/a0efb9126ae0861d.png",
+    "followers_count": 60,
+    "following_count": 5,
+    "statuses_count": 21,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215427181981797",
+    "username": "avecmozeika",
+    "acct": "avecmozeika@mastodon.scop.coop",
+    "display_name": "Avec Mozeika CAE",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-05-31T00:00:00.000Z",
+    "note": "\u003cp\u003e«Avec Mozeika», votre Coopérative d'Activités et d'Entrepreneurs à Nice et dans les Alpes Maritimes.\u003c/p\u003e\u003cp\u003eParticipez à une entreprise partagée. Entreprendre \u0026amp; coopérer, c’est possible.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@avecmozeika",
+    "uri": "https://mastodon.scop.coop/users/avecmozeika",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/181/981/797/original/1863038dcaca389d.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/181/981/797/original/1863038dcaca389d.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/181/981/797/original/e7599fa7d4300ebc.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/181/981/797/original/e7599fa7d4300ebc.png",
+    "followers_count": 23,
+    "following_count": 35,
+    "statuses_count": 50,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site",
+        "value": "\u003ca href=\"https://www.mozeika.fr/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emozeika.fr/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215427108455290",
+    "username": "lameltingcoop",
+    "acct": "lameltingcoop@mastodon.scop.coop",
+    "display_name": "La Melting Coop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2025-03-02T00:00:00.000Z",
+    "note": "\u003cp\u003eLa Melting Coop (enseigne de Demain Supermarché) est le 1er \u003ca href=\"https://mastodon.scop.coop/tags/supermarch%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003esupermarché\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/coop%C3%A9ratif\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecoopératif\u003c/span\u003e\u003c/a\u003e \u0026amp; \u003ca href=\"https://mastodon.scop.coop/tags/participatif\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eparticipatif\u003c/span\u003e\u003c/a\u003e de \u003ca href=\"https://mastodon.scop.coop/tags/Lyon\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLyon\u003c/span\u003e\u003c/a\u003e.\u003cbr\u003e📍 229, cours Émile Zola - Villeurbanne\u003c/p\u003e\u003cp\u003eRalliez l’aventure ! Devenez acteur de La Melting Coop dès aujourd’hui.\u003cbr\u003e\u003ca href=\"https://mastodon.scop.coop/tags/consommerautrement\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003econsommerautrement\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/mangermieux\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emangermieux\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/ESS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eESS\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/foodcoop\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efoodcoop\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@lameltingcoop",
+    "uri": "https://mastodon.scop.coop/users/lameltingcoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/108/455/290/original/b76b07e1461947cd.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/108/455/290/original/b76b07e1461947cd.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/108/455/290/original/c88307eb748da730.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/108/455/290/original/c88307eb748da730.jpg",
+    "followers_count": 100,
+    "following_count": 13,
+    "statuses_count": 105,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215427037856955",
+    "username": "cooperativefunerairelyon",
+    "acct": "cooperativefunerairelyon@mastodon.social",
+    "display_name": "Coopérative funéraire de Lyon",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-03-19T00:00:00.000Z",
+    "note": "\u003cp\u003eOrganisation d'obsèques personnalisées dans un secteur de 40 km autour de Lyon\u003cbr\u003e📍 Sur RDV à Villeurbanne ou Francheville\u003cbr\u003e🔎 Vous informer sur les possibilités funéraires\u003c/p\u003e",
+    "url": "https://mastodon.social/@cooperativefunerairelyon",
+    "uri": "https://mastodon.social/users/cooperativefunerairelyon",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/037/856/955/original/4239b84a013110f0.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/427/037/856/955/original/4239b84a013110f0.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/037/856/955/original/9693f98aaafda172.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/427/037/856/955/original/9693f98aaafda172.jpg",
+    "followers_count": 76,
+    "following_count": 28,
+    "statuses_count": 23,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215426978344043",
+    "username": "lacagette34",
+    "acct": "lacagette34@piaille.fr",
+    "display_name": "La Cagette de Montpellier",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-02-11T00:00:00.000Z",
+    "note": "\u003cp\u003eNous sommes le premier supermarché coopératif et participatif à but non lucratif de Montpellier.\u003c/p\u003e",
+    "url": "https://piaille.fr/@lacagette34",
+    "uri": "https://piaille.fr/users/lacagette34",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/978/344/043/original/60581e65ce980179.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/978/344/043/original/60581e65ce980179.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/978/344/043/original/bf73571e71ddeb37.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/978/344/043/original/bf73571e71ddeb37.jpg",
+    "followers_count": 41,
+    "following_count": 3,
+    "statuses_count": 13,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215426928730139",
+    "username": "ezeo",
+    "acct": "ezeo@piaille.fr",
+    "display_name": "ézéo",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-02-05T00:00:00.000Z",
+    "note": "\u003cp\u003eEntreprise du Numérique Libre (Rennes). \u003ca href=\"https://piaille.fr/tags/scop\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003escop\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://piaille.fr/tags/nextcloud\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enextcloud\u003c/span\u003e\u003c/a\u003e  \u003ca href=\"https://ezeo.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eezeo.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://quihebergelesmails.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003equihebergelesmails.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://covoitequipe.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecovoitequipe.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://piaille.fr/@ezeo",
+    "uri": "https://piaille.fr/users/ezeo",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/928/730/139/original/082dda148b2fd7b0.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/928/730/139/original/082dda148b2fd7b0.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 121,
+    "following_count": 152,
+    "statuses_count": 159,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215426860298771",
+    "username": "autonomic",
+    "acct": "autonomic@sunbeam.city",
+    "display_name": "Autonomic Co-op",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2019-04-26T00:00:00.000Z",
+    "note": "\u003cp\u003eAutonomic is a co-operative that is owned and run by its workers. We build technologies and infrastructure to empower users to make a positive impact on the world. All of our services reflect our commitment to our core values of privacy, transparency and sustainability.\u003c/p\u003e",
+    "url": "https://sunbeam.city/@autonomic",
+    "uri": "https://sunbeam.city/users/autonomic",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/860/298/771/original/3546570ffc6883be.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/860/298/771/original/3546570ffc6883be.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/860/298/771/original/81f3e6b7df0e4288.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/860/298/771/original/81f3e6b7df0e4288.jpg",
+    "followers_count": 1545,
+    "following_count": 157,
+    "statuses_count": 334,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://autonomic.zone\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eautonomic.zone\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Co-op Cloud",
+        "value": "\u003ca href=\"https://coopcloud.tech\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoopcloud.tech\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Email",
+        "value": "boop@autonomic.zone",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426785320960",
+    "username": "incaya",
+    "acct": "incaya@mastodon.scop.coop",
+    "display_name": "Incaya",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-01-21T00:00:00.000Z",
+    "note": "\u003cp\u003e\u003ca href=\"https://mastodon.scop.coop/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eintroduction\u003c/span\u003e\u003c/a\u003e \u003c/p\u003e\u003cp\u003eINCAYA est une \u003ca href=\"https://mastodon.scop.coop/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e de 5 personnes travaillant dans l’informatique, principalement dans le web.\u003c/p\u003e\u003cp\u003eSi l’on aime passer du temps à discuter (réduction du) temps de travail, justice salariale, juste répartition du fruit de notre travail, nous adorons particulièrement mettre en commun nos presque 80 années d’expérience professionnelle afin de trouver la manière de travailler et les outils nous semblant les plus justes.\u003c/p\u003e\u003cp\u003eÀ l’occasion, on essaie de partager nos réflexions.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@incaya",
+    "uri": "https://mastodon.scop.coop/users/incaya",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/785/320/960/original/1ec1994226c0b01e.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/785/320/960/original/1ec1994226c0b01e.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/785/320/960/original/b58c572cab2a3c73.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/785/320/960/original/b58c572cab2a3c73.jpg",
+    "followers_count": 76,
+    "following_count": 27,
+    "statuses_count": 31,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site Web",
+        "value": "\u003ca href=\"https://incaya.fr\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eincaya.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:16:38.452+00:00"
+      },
+      {
+        "name": "Codeberg",
+        "value": "\u003ca href=\"https://codeberg.org/INCAYA\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecodeberg.org/INCAYA\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:16:38.565+00:00"
+      }
+    ]
+  },
+  {
+    "id": "116215426708239636",
+    "username": "tadaa",
+    "acct": "tadaa@mastodon.scop.coop",
+    "display_name": "Tadaa",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-11-25T00:00:00.000Z",
+    "note": "\u003cp\u003eSCOP d'interactions informatives\u003cbr\u003e— Mieux se comprendre et travailler ensemble\u003cbr\u003e— \u003ca href=\"https://mastodon.scop.coop/tags/Didactique\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDidactique\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Communs\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCommuns\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Transitions\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTransitions\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/ESS%C2%B7E\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eESS·E\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Conseil\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eConseil\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Web\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eWeb\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/Libre\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLibre\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@tadaa",
+    "uri": "https://mastodon.scop.coop/users/tadaa",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/708/239/636/original/26b4b96a23495f8b.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/708/239/636/original/26b4b96a23495f8b.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/708/239/636/original/5f23abcc3d02f34f.jpeg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/708/239/636/original/5f23abcc3d02f34f.jpeg",
+    "followers_count": 39,
+    "following_count": 8,
+    "statuses_count": 0,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site internet",
+        "value": "\u003ca href=\"https://tadaa.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etadaa.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "LinkedIn",
+        "value": "\u003ca href=\"https://www.linkedin.com/company/scop-tadaa/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003elinkedin.com/company/scop-tada\u003c/span\u003e\u003cspan class=\"invisible\"\u003ea/\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426644665888",
+    "username": "access42",
+    "acct": "access42@social.a11y.fr",
+    "display_name": "Access42",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2023-04-04T00:00:00.000Z",
+    "note": "\u003cp\u003eCabinet de conseil français en \u003ca href=\"https://social.a11y.fr/tags/accessibilit%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eaccessibilité\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.a11y.fr/tags/num%C3%A9rique\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enumérique\u003c/span\u003e\u003c/a\u003e\u0026nbsp;: audit, conseil, formation et certifications\u003c/p\u003e\u003cp\u003eCoordinatrice de la traduction en français des \u003ca href=\"https://social.a11y.fr/tags/WCAG\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eWCAG\u003c/span\u003e\u003c/a\u003e 2.1 et 2.2. Rédactrice de référentiels, comme le \u003ca href=\"https://social.a11y.fr/tags/RGAA\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eRGAA\u003c/span\u003e\u003c/a\u003e 3.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://social.a11y.fr/tags/a11y\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ea11y\u003c/span\u003e\u003c/a\u003e FTW ! \u003ca href=\"https://social.a11y.fr/tags/handicap\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ehandicap\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.a11y.fr/tags/UX\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eUX\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.a11y.fr/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.a11y.fr/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eOpenSource\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://social.a11y.fr/@access42",
+    "uri": "https://social.a11y.fr/users/access42",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/644/665/888/original/e9014655daecc6fc.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/644/665/888/original/e9014655daecc6fc.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/644/665/888/original/3d05e60033fef409.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/644/665/888/original/3d05e60033fef409.png",
+    "followers_count": 553,
+    "following_count": 57,
+    "statuses_count": 626,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Nos services en accessibilité numérique",
+        "value": "\u003ca href=\"https://access42.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eaccess42.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Formations et certifications en accessibilité numérique",
+        "value": "\u003ca href=\"https://formations.access42.net/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eformations.access42.net/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Veille sur l'accessibilité tous les 2 mois par e-mail",
+        "value": "\u003ca href=\"https://a42.fr/newsletter\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ea42.fr/newsletter\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426588446045",
+    "username": "lebureau_coop",
+    "acct": "lebureau_coop@mastodon.scop.coop",
+    "display_name": "LeBureau.coop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2024-12-17T00:00:00.000Z",
+    "note": "\u003cp\u003eNous vous accompagnons sur l'enregistrement et la gestion de vos noms de domaines\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@lebureau_coop",
+    "uri": "https://mastodon.scop.coop/users/lebureau_coop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/588/446/045/original/f2f1bc2fd6dfd95a.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/588/446/045/original/f2f1bc2fd6dfd95a.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 387,
+    "following_count": 4,
+    "statuses_count": 73,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://lebureau.coop\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elebureau.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:15:38.604+00:00"
+      }
+    ]
+  },
+  {
+    "id": "116215426515576840",
+    "username": "hashbang",
+    "acct": "hashbang@mastodon.scop.coop",
+    "display_name": "HashBang (#!⌨)",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-12-15T00:00:00.000Z",
+    "note": "\u003cp\u003eHashBang est une coopérative lyonnaise d’ingénierie informatique.\u003c/p\u003e\u003cp\u003eNous concevons, développons et maintenons vos projets web sur mesure.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@hashbang",
+    "uri": "https://mastodon.scop.coop/users/hashbang",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/515/576/840/original/e1b473d59c5ab803.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/515/576/840/original/e1b473d59c5ab803.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/515/576/840/original/1ee0c64b3e3f0938.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/515/576/840/original/1ee0c64b3e3f0938.png",
+    "followers_count": 292,
+    "following_count": 31,
+    "statuses_count": 73,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://hashbang.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ehashbang.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426435622448",
+    "username": "AlmaScop",
+    "acct": "AlmaScop@mastodon.scop.coop",
+    "display_name": "Alma Scop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2022-12-04T00:00:00.000Z",
+    "note": "\u003cp\u003eÉditeur de logiciels métier (industrie, santé, collaboratif), facilitateur numérique… et une Scop bouillonnante, très attachée à ses valeurs coopératives et citoyennes !\u003cbr\u003ewww.alma.fr\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@AlmaScop",
+    "uri": "https://mastodon.scop.coop/users/AlmaScop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/435/622/448/original/dc98675edfcf7798.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/435/622/448/original/dc98675edfcf7798.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/435/622/448/original/13b24a81dca713c1.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/435/622/448/original/13b24a81dca713c1.jpg",
+    "followers_count": 66,
+    "following_count": 29,
+    "statuses_count": 27,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215426366914745",
+    "username": "cliss21",
+    "acct": "cliss21@mastodon.libre-entreprise.com",
+    "display_name": "Cliss XXI",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2024-03-18T00:00:00.000Z",
+    "note": "\u003cp\u003e🏢 Coopérative autogérée d’informatique libre sur Lens et Lille, en France. 🐍 Python 📧 Emails 🌐 Sites 🚴🏻 Cyclotaff 🧑🏻‍🏫 Éduc’ pop’\u003c/p\u003e",
+    "url": "https://mastodon.libre-entreprise.com/@cliss21",
+    "uri": "https://mastodon.libre-entreprise.com/users/cliss21",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/366/914/745/original/e0862f8b32a3c00a.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/366/914/745/original/e0862f8b32a3c00a.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/366/914/745/original/58d676b56eb2b340.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/366/914/745/original/58d676b56eb2b340.png",
+    "followers_count": 286,
+    "following_count": 253,
+    "statuses_count": 1,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.cliss21.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecliss21.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Téléphone",
+        "value": "+33 3 21 45 78 24",
+        "verified_at": null
+      },
+      {
+        "name": "Forme juridique",
+        "value": "SARL SCIC",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426315587143",
+    "username": "enercoop_scic",
+    "acct": "enercoop_scic@mastodon.social",
+    "display_name": "enercoop_scic",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-20T00:00:00.000Z",
+    "note": "",
+    "url": "https://mastodon.social/@enercoop_scic",
+    "uri": "https://mastodon.social/users/enercoop_scic",
+    "avatar": "https://leicester.chat/avatars/original/missing.png",
+    "avatar_static": "https://leicester.chat/avatars/original/missing.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 156,
+    "following_count": 5,
+    "statuses_count": 0,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215426252357230",
+    "username": "coopcircuits",
+    "acct": "coopcircuits@mstdn.io",
+    "display_name": "CoopCircuits",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-01-27T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopérative (SCIC) \u003c/p\u003e\u003cp\u003e🧺Plateforme \u003ca href=\"https://mstdn.io/tags/libre\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003elibre\u003c/span\u003e\u003c/a\u003e d'achat \u0026amp; vente en \u003ca href=\"https://mstdn.io/tags/circuitcourt\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecircuitcourt\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e💻Édition de solutions numériques \u003ca href=\"https://mstdn.io/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eopensource\u003c/span\u003e\u003c/a\u003e sur mesure \u003c/p\u003e\u003cp\u003e🤝Accompagnement, formation\u003c/p\u003e\u003cp\u003e-- \u003c/p\u003e\u003cp\u003eFrench cooperative dedicated to short supply chains. We enable a network of independent online stores that connects farmers/producers and hubs with individuals and local businesses. It gives farmers and hubs an easier and fairer way to distribute their food, their products.\u003c/p\u003e\u003cp\u003eProud members of the Open Food Network.\u003c/p\u003e",
+    "url": "https://mstdn.io/@coopcircuits",
+    "uri": "https://mstdn.io/users/coopcircuits",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/252/357/230/original/073b88ce7314e920.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/252/357/230/original/073b88ce7314e920.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/252/357/230/original/add1b0913d9a8326.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/252/357/230/original/add1b0913d9a8326.png",
+    "followers_count": 358,
+    "following_count": 111,
+    "statuses_count": 166,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://apropos.coopcircuits.fr/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eapropos.coopcircuits.fr/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Github",
+        "value": "\u003ca href=\"https://github.com/openfoodfoundation/openfoodnetwork\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egithub.com/openfoodfoundation/\u003c/span\u003e\u003cspan class=\"invisible\"\u003eopenfoodnetwork\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Gitlab",
+        "value": "\u003ca href=\"https://gitlab.com/coopcircuits\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egitlab.com/coopcircuits\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426158964579",
+    "username": "caap",
+    "acct": "caap@mastodon.scop.coop",
+    "display_name": "Caap",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-17T00:00:00.000Z",
+    "note": "\u003cp\u003eLa Caap pour Coopérative Auvergnate de l'Alimentation de Proximité !\u003cbr\u003eUne \u003ca href=\"https://mastodon.scop.coop/tags/coop%C3%A9rative\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecoopérative\u003c/span\u003e\u003c/a\u003e qui accompagne des entrepreneur⸱es à créer et pérenniser une activité alimentaire, et qui promeut une \u003ca href=\"https://mastodon.scop.coop/tags/alimentation\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ealimentation\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.scop.coop/tags/bio\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ebio\u003c/span\u003e\u003c/a\u003e, locale et responsable en \u003ca href=\"https://mastodon.scop.coop/tags/Auvergne\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAuvergne\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@caap",
+    "uri": "https://mastodon.scop.coop/users/caap",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/158/964/579/original/fd602f6d0f130d12.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/158/964/579/original/fd602f6d0f130d12.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/158/964/579/original/4d19e0a47b95cde4.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/158/964/579/original/4d19e0a47b95cde4.png",
+    "followers_count": 157,
+    "following_count": 3,
+    "statuses_count": 31,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Création",
+        "value": "05 novembre 2021",
+        "verified_at": null
+      },
+      {
+        "name": "Localisation",
+        "value": "Auvergne, France",
+        "verified_at": null
+      },
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://caap.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecaap.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215425921108997",
+    "username": "WebuSCOP",
+    "acct": "WebuSCOP@mastodon.scop.coop",
+    "display_name": "SCOP Webu :scop:",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-11-25T00:00:00.000Z",
+    "note": "\u003cp\u003eL'agence de développement web en SCOP,\u003cbr\u003eutilisant des technologies libres, de la gestion de projet métier et itérative, de l'ergonomie et du design centrés sur l'utilisateur et de l'hébergement virtualisé, sécurisé et local.\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@WebuSCOP",
+    "uri": "https://mastodon.scop.coop/users/WebuSCOP",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/921/108/997/original/4fdc2d4b6cf8b5c6.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/921/108/997/original/4fdc2d4b6cf8b5c6.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/921/108/997/original/c56502ca9301c9c1.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/921/108/997/original/c56502ca9301c9c1.png",
+    "followers_count": 286,
+    "following_count": 37,
+    "statuses_count": 48,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [
+      {
+        "shortcode": "scop",
+        "url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/379/original/b40c9cd124182879.png",
+        "static_url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/379/static/b40c9cd124182879.png",
+        "visible_in_picker": true
+      }
+    ],
+    "fields": [
+      {
+        "name": "web",
+        "value": "\u003ca href=\"https://www.webu.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ewebu.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "techno",
+        "value": "django",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215426047608054",
+    "username": "LesScopAura",
+    "acct": "LesScopAura@mastodon.scop.coop",
+    "display_name": "Les Scop \u0026 Scic AURA :labscop:",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2022-11-16T00:00:00.000Z",
+    "note": "\u003cp\u003e1er réseau d’accompagnement des entrepreneurs coopératifs en AURA, l’Union régionale des Scop et Scic  veille à la promotion de l’entrepreneuriat coopératif, à la connaissance mutuelle et à l’échange entre les 779 coopératives que compte notre région.🤝💼\u003c/p\u003e\u003cp\u003eNous sommes sur Mastodon parce que :\u003cbr\u003e✅Comme les Scop \u0026amp; Scic, ce réseau ne peut pas se vendre\u003cbr\u003e✅Comme les Scop \u0026amp; Scic, le pouvoir n'y est pas détenu par une seule personne\u003cbr\u003e✅Comme les Scop \u0026amp; Scic, chacun peut donner de la voix\u003c/p\u003e\u003cp\u003ewww.scop.org\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@LesScopAura",
+    "uri": "https://mastodon.scop.coop/users/LesScopAura",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/047/608/054/original/4eb5f5ecad1848e8.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/426/047/608/054/original/4eb5f5ecad1848e8.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/047/608/054/original/afd1d61d9cd2e51f.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/426/047/608/054/original/afd1d61d9cd2e51f.png",
+    "followers_count": 430,
+    "following_count": 88,
+    "statuses_count": 214,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [
+      {
+        "shortcode": "labscop",
+        "url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/380/original/f9ae07ca13543cb5.png",
+        "static_url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/380/static/f9ae07ca13543cb5.png",
+        "visible_in_picker": true
+      }
+    ],
+    "fields": []
+  },
+  {
+    "id": "116215425822699767",
+    "username": "probesys",
+    "acct": "probesys@mastodon.scop.coop",
+    "display_name": "Probesys :scop:",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-17T00:00:00.000Z",
+    "note": "\u003cp\u003e\u003ca href=\"https://mastodon.scop.coop/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e spécialisée en \u003ca href=\"https://mastodon.scop.coop/tags/LogicielsLibres\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLogicielsLibres\u003c/span\u003e\u003c/a\u003e depuis 2003\u003c/p\u003e",
+    "url": "https://mastodon.scop.coop/@probesys",
+    "uri": "https://mastodon.scop.coop/users/probesys",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/822/699/767/original/5978a9d46baf6801.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/822/699/767/original/5978a9d46baf6801.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/822/699/767/original/50807fd6b1712364.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/822/699/767/original/50807fd6b1712364.jpg",
+    "followers_count": 342,
+    "following_count": 55,
+    "statuses_count": 41,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [
+      {
+        "shortcode": "scop",
+        "url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/379/original/b40c9cd124182879.png",
+        "static_url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/379/static/b40c9cd124182879.png",
+        "visible_in_picker": true
+      }
+    ],
+    "fields": []
+  },
+  {
+    "id": "116215425988968010",
+    "username": "bearstech",
+    "acct": "bearstech@mamot.fr",
+    "display_name": "Bearstech",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2022-06-27T00:00:00.000Z",
+    "note": "\u003cp\u003e\u003ca href=\"https://mamot.fr/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e d'experts du \u003ca href=\"https://mamot.fr/tags/LogicielLibre\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLogicielLibre\u003c/span\u003e\u003c/a\u003e\u003cbr\u003eConfiez nous la performance de vos applications (hébergement, infogérance, \u003ca href=\"https://mamot.fr/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://mamot.fr/tags/SRE\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSRE\u003c/span\u003e\u003c/a\u003e, sécurité, efficacité énergétique)\u003c/p\u003e",
+    "url": "https://mamot.fr/@bearstech",
+    "uri": "https://mamot.fr/users/bearstech",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/988/968/010/original/503c7a144e60aba6.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/988/968/010/original/503c7a144e60aba6.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/988/968/010/original/21be482b689dd300.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/988/968/010/original/21be482b689dd300.png",
+    "followers_count": 1548,
+    "following_count": 168,
+    "statuses_count": 4370,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://bearstech.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebearstech.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116159429106799794",
+    "username": "ouvaton",
+    "acct": "ouvaton@ouvaton.coop",
+    "display_name": "Ouvaton Coop'",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2022-12-08T00:00:00.000Z",
+    "note": "\u003cp\u003eLa coopérative d'hébergement numérique\u003cbr\u003e\u003ca href=\"https://ouvaton.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eouvaton.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.ouvaton.coop/@ouvaton",
+    "uri": "https://mastodon.ouvaton.coop/users/ouvaton",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/159/429/106/799/794/original/91038b192f87dd6c.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/159/429/106/799/794/original/91038b192f87dd6c.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/159/429/106/799/794/original/d5d4de7a9bfec0a8.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/159/429/106/799/794/original/d5d4de7a9bfec0a8.png",
+    "followers_count": 1864,
+    "following_count": 128,
+    "statuses_count": 708,
+    "last_status_at": "2026-03-02",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://ouvaton.coop/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eouvaton.coop/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Contact",
+        "value": "\u003ca href=\"https://ouvaton.coop/contact/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eouvaton.coop/contact/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Documentation",
+        "value": "\u003ca href=\"https://documentation.ouvaton.coop/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edocumentation.ouvaton.coop/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:17:44.085+00:00"
+      },
+      {
+        "name": "Forums",
+        "value": "\u003ca href=\"https://forums.ouvaton.coop\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eforums.ouvaton.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:17:44.252+00:00"
+      }
+    ]
+  },
+  {
+    "id": "116215425757874016",
+    "username": "nubo_coop",
+    "acct": "nubo_coop@hostux.social",
+    "display_name": "Nubo Coop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2017-10-19T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopérative belge\u003cbr\u003email et cloud | éthique et local | ensemble\u003cbr\u003eBelgische coöperatie\u003cbr\u003email en cloud | ethisch en lokaal | allemaal samen\u003cbr\u003e\u003ca href=\"https://nubo.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003enubo.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://hostux.social/@nubo_coop",
+    "uri": "https://hostux.social/users/nubo_coop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/757/874/016/original/716e927815fa2eb1.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/757/874/016/original/716e927815fa2eb1.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 697,
+    "following_count": 53,
+    "statuses_count": 276,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215425679926402",
+    "username": "elfarcooperatiu",
+    "acct": "elfarcooperatiu@mastodon.social",
+    "display_name": "El Far Cooperatiu",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-29T00:00:00.000Z",
+    "note": "\u003cp\u003eCooperativa de comunicació social i participativa. Donem llum a projectes transformadors i els connectem amb propostes que els aportin un valor afegit // elfarcooperatiu.cat\u003c/p\u003e",
+    "url": "https://mastodon.social/@elfarcooperatiu",
+    "uri": "https://mastodon.social/users/elfarcooperatiu",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/679/926/402/original/5e3a700e15ffbfe2.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/679/926/402/original/5e3a700e15ffbfe2.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/679/926/402/original/8eeabcc25314b9a3.jpeg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/679/926/402/original/8eeabcc25314b9a3.jpeg",
+    "followers_count": 90,
+    "following_count": 86,
+    "statuses_count": 86,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215425622472810",
+    "username": "Licoornes",
+    "acct": "Licoornes@mastodon.social",
+    "display_name": "Licoornes",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-16T00:00:00.000Z",
+    "note": "\u003cp\u003eLes Licoornes, c'est l'alliance de 16 coopératives engagées pour transformer radicalement l'économie au service d'une transition environnementale juste. \u003c/p\u003e\u003cp\u003eRetrouvez-nous sur \u003ca href=\"https://linktr.ee/leslicoornes\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/leslicoornes\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.social/@Licoornes",
+    "uri": "https://mastodon.social/users/Licoornes",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/622/472/810/original/10f43b6a6193182b.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/622/472/810/original/10f43b6a6193182b.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/622/472/810/original/1fd3a5480b2f6f52.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/622/472/810/original/1fd3a5480b2f6f52.jpg",
+    "followers_count": 361,
+    "following_count": 54,
+    "statuses_count": 85,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site",
+        "value": "\u003ca href=\"https://www.licoornes.coop/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elicoornes.coop/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Linktree",
+        "value": "\u003ca href=\"https://linktr.ee/leslicoornes?utm_source=linktree_admin_share\u0026amp;fbclid=PAZXh0bgNhZW0CMTEAAadoCl3mMHW-2AiQldjAwbZf4vtT3Q7LUYuzeroDrSRQMkpf7OP7P-fUKI1d_w_aem_LRuEggA5gDSQGxzPi2ce6Q\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003elinktr.ee/leslicoornes?utm_sou\u003c/span\u003e\u003cspan class=\"invisible\"\u003erce=linktree_admin_share\u0026amp;fbclid=PAZXh0bgNhZW0CMTEAAadoCl3mMHW-2AiQldjAwbZf4vtT3Q7LUYuzeroDrSRQMkpf7OP7P-fUKI1d_w_aem_LRuEggA5gDSQGxzPi2ce6Q\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215425556507515",
+    "username": "ateneucoopcamp",
+    "acct": "ateneucoopcamp@mastodon.social",
+    "display_name": "Ateneu CoopCamp",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-20T00:00:00.000Z",
+    "note": "\u003cp\u003eAteneu cooperatiu del Camp de Tarragona. Impulsem l'economia social i solidària, teixint aliances per a la transformació social \u003ca href=\"https://mastodon.social/tags/cooperativisme\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecooperativisme\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/ESS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eESS\u003c/span\u003e\u003c/a\u003e // coopcamp.cat\u003c/p\u003e",
+    "url": "https://mastodon.social/@ateneucoopcamp",
+    "uri": "https://mastodon.social/users/ateneucoopcamp",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/556/507/515/original/4634ceacd8ad7cb3.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/556/507/515/original/4634ceacd8ad7cb3.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/556/507/515/original/45e3f6a451d52cbb.jpeg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/556/507/515/original/45e3f6a451d52cbb.jpeg",
+    "followers_count": 160,
+    "following_count": 130,
+    "statuses_count": 181,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215425064268194",
+    "username": "catalystcoop",
+    "acct": "catalystcoop@mastodon.energy",
+    "display_name": "Catalyst Cooperative",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2023-08-08T00:00:00.000Z",
+    "note": "\u003cp\u003eCatalyst is an all-remote data engineering, analysis and software development consultancy. We empower advocates, policymakers, and researchers working on the \u003ca href=\"https://mastodon.energy/tags/EnergyTransition\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eEnergyTransition\u003c/span\u003e\u003c/a\u003e by publishing \u003ca href=\"https://mastodon.energy/tags/OpenData\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eOpenData\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://mastodon.energy/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eOpenSource\u003c/span\u003e\u003c/a\u003e software related to the US energy system. We also work with mission-aligned clients on both open \u0026amp; proprietary projects.\u003c/p\u003e\u003cp\u003eWe're organized as a worker cooperative.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.energy/tags/PyData\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePyData\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.energy/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eClimateChange\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.energy/tags/EnergyMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eEnergyMastodon\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.energy/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDataScience\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.energy/tags/DataEngineering\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDataEngineering\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.energy/tags/Cooperative\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCooperative\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.energy/@catalystcoop",
+    "uri": "https://mastodon.energy/users/catalystcoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/064/268/194/original/67bef705dbab1ee5.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/064/268/194/original/67bef705dbab1ee5.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/064/268/194/original/62d0bb34f04aadfa.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/064/268/194/original/62d0bb34f04aadfa.jpg",
+    "followers_count": 524,
+    "following_count": 239,
+    "statuses_count": 695,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Web",
+        "value": "\u003ca href=\"https://catalyst.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecatalyst.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "GitHub",
+        "value": "\u003ca href=\"https://github.com/catalyst-cooperative\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/catalyst-cooperative\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:15:20.120+00:00"
+      },
+      {
+        "name": "Data Viewer",
+        "value": "\u003ca href=\"https://data.catalyst.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edata.catalyst.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "AWS Open Data",
+        "value": "\u003ca href=\"https://registry.opendata.aws/catalyst-cooperative-pudl/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003eregistry.opendata.aws/catalyst\u003c/span\u003e\u003cspan class=\"invisible\"\u003e-cooperative-pudl/\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215425488936154",
+    "username": "manucoop",
+    "acct": "manucoop@mastodon.social",
+    "display_name": "La Manufacture coopérative",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-20T00:00:00.000Z",
+    "note": "\u003cp\u003eCollectif de recherche-action et de travail coopératif depuis 2013\u003cbr\u003e\u003ca href=\"https://mastodon.social/tags/travail\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etravail\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/coop\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecoop\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/democratie\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edemocratie\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/social\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003esocial\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/commun\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecommun\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/ESS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eESS\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://manufacture.coop/fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emanufacture.coop/fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.social/@manucoop",
+    "uri": "https://mastodon.social/users/manucoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/488/936/154/original/01053cb72aa711fc.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/488/936/154/original/01053cb72aa711fc.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/488/936/154/original/2a828d4bf587aa60.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/488/936/154/original/2a828d4bf587aa60.png",
+    "followers_count": 105,
+    "following_count": 41,
+    "statuses_count": 32,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site",
+        "value": "\u003ca href=\"https://manufacture.coop/fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emanufacture.coop/fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215425422440012",
+    "username": "BiocoopLes7Epis",
+    "acct": "BiocoopLes7Epis@mastodon.social",
+    "display_name": "Biocoop Les 7 Épis",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2025-01-13T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopérative d'intérêt collectif, Les 7 Épis propose huit points de vente sur le pays de Lorient, des magasins bio, alimentation et éco produits, et un restaurant bio : Croc’Épi. Elle fait partie du réseau Biocoop, qu’elle a contribué à fonder.\u003cbr\u003eNous sommes présents à Lorient Keryado, Lorient Centre, Lanester, Mellac, Guidel, Riantec, Pont-Scorff, Larmor-Plage.\u003c/p\u003e",
+    "url": "https://mastodon.social/@BiocoopLes7Epis",
+    "uri": "https://mastodon.social/users/BiocoopLes7Epis",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/422/440/012/original/3f162538f52bee62.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/422/440/012/original/3f162538f52bee62.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/422/440/012/original/8c62ade66405f7ea.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/422/440/012/original/8c62ade66405f7ea.jpg",
+    "followers_count": 62,
+    "following_count": 20,
+    "statuses_count": 7,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215425328454761",
+    "username": "limeleaf",
+    "acct": "limeleaf@social.coop",
+    "display_name": "Limeleaf",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2024-03-27T00:00:00.000Z",
+    "note": "\u003cp\u003eWe are a worker-owned cooperative that helps teams build fast, reliable, maintainable software using Go and Rust.\u003c/p\u003e\u003cp\u003eWe're also building ethical, privacy-focused, and open source products for real people and the \u003ca href=\"https://social.coop/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eFediverse\u003c/span\u003e\u003c/a\u003e. We're currently working on \u003ca href=\"https://limecast.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elimecast.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://apply.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eapply.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eAccount maintained by \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://fosstodon.org/@blainsmith\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eblainsmith\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+    "url": "https://social.coop/@limeleaf",
+    "uri": "https://social.coop/users/limeleaf",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/328/454/761/original/564954e4919e7f4b.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/425/328/454/761/original/564954e4919e7f4b.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/328/454/761/original/c65680782ee398df.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/425/328/454/761/original/c65680782ee398df.png",
+    "followers_count": 367,
+    "following_count": 109,
+    "statuses_count": 257,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://limeleaf.coop\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elimeleaf.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:15:33.324+00:00"
+      },
+      {
+        "name": "Currently Building",
+        "value": "henhouse.coop",
+        "verified_at": null
+      },
+      {
+        "name": "Open Source",
+        "value": "\u003ca href=\"https://codeberg.org/limeleaf\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecodeberg.org/limeleaf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "LinkedIn",
+        "value": "\u003ca href=\"https://www.linkedin.com/company/limeleaf-collective\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003elinkedin.com/company/limeleaf-\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecollective\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424897104787",
+    "username": "yaal",
+    "acct": "yaal@toot.aquilenet.fr",
+    "display_name": "Yaal Coop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2020-02-24T00:00:00.000Z",
+    "note": "\u003cp\u003e\u003ca href=\"https://toot.aquilenet.fr/tags/coop%C3%A9rative\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecoopérative\u003c/span\u003e\u003c/a\u003e bordelaise de services informatiques. \u003ca href=\"https://toot.aquilenet.fr/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003epython\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://toot.aquilenet.fr/tags/logiciellibre\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003elogiciellibre\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://toot.aquilenet.fr/@yaal",
+    "uri": "https://toot.aquilenet.fr/users/yaal",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/897/104/787/original/b550dc8368ff9ae1.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/897/104/787/original/b550dc8368ff9ae1.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/897/104/787/original/c2d8aeeee3661cbb.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/897/104/787/original/c2d8aeeee3661cbb.png",
+    "followers_count": 301,
+    "following_count": 72,
+    "statuses_count": 116,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site internet",
+        "value": "\u003ca href=\"https://yaal.coop/fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eyaal.coop/fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Gitlab",
+        "value": "\u003ca href=\"https://gitlab.com/yaal\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egitlab.com/yaal\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424709457939",
+    "username": "numericoop",
+    "acct": "numericoop@framapiaf.org",
+    "display_name": "Numéricoop - Numéricloud",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2018-10-22T00:00:00.000Z",
+    "note": "\u003cp\u003eNous sommes une agence numérique coopérative pour les pros, les assos et les particuliers, engagée pour fournir des services basés sur des logiciels libres.\u003cbr\u003eVoir nos services : \u003ca href=\"https://numericoop.fr/savoir-faire-de-numericoop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003enumericoop.fr/savoir-faire-de-\u003c/span\u003e\u003cspan class=\"invisible\"\u003enumericoop\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eNous sommes également les créateurs du service en libre acces : Numéricloud, votre espace collaboratif en ligne, pour partager des fichiers et bien plus.\u003cbr\u003e\u003ca href=\"https://numericloud.eu\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003enumericloud.eu\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://framapiaf.org/@numericoop",
+    "uri": "https://framapiaf.org/users/numericoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/709/457/939/original/29bbf1355c0a1261.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/709/457/939/original/29bbf1355c0a1261.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/709/457/939/original/fa3319697c3cf85a.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/709/457/939/original/fa3319697c3cf85a.png",
+    "followers_count": 281,
+    "following_count": 37,
+    "statuses_count": 46,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.numericoop.fr\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003enumericoop.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:18:34.855+00:00"
+      },
+      {
+        "name": "Site Numéricloud",
+        "value": "\u003ca href=\"https://numericloud.eu\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003enumericloud.eu\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:18:35.059+00:00"
+      },
+      {
+        "name": "Coopérative",
+        "value": "\u003ca href=\"https://www.coopaname.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoopaname.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Linkedin",
+        "value": "\u003ca href=\"https://www.linkedin.com/company/numericoop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/company/numericoop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424780192414",
+    "username": "CodeursEnLiberte",
+    "acct": "CodeursEnLiberte@framapiaf.org",
+    "display_name": "Codeur·euses en Liberté",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2018-03-01T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopérative de salarié·es indépendant·es en informatique.\u003c/p\u003e",
+    "url": "https://framapiaf.org/@CodeursEnLiberte",
+    "uri": "https://framapiaf.org/users/CodeursEnLiberte",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/780/192/414/original/8baeb95c94070ec0.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/780/192/414/original/8baeb95c94070ec0.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 412,
+    "following_count": 84,
+    "statuses_count": 81,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.codeureusesenliberté.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecodeureusesenliberté.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Wiki",
+        "value": "\u003ca href=\"https://gitlab.com/CodeursEnLiberte/fondations/wikis/home\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egitlab.com/CodeursEnLiberte/fo\u003c/span\u003e\u003cspan class=\"invisible\"\u003endations/wikis/home\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424650972881",
+    "username": "le_filament",
+    "acct": "le_filament@pouet.chapril.org",
+    "display_name": "Le Filament",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2021-10-21T00:00:00.000Z",
+    "note": "\u003cp\u003eSociété coopérative (Scop) qui accompagne les entreprises dans la conduite de leurs projets informatiques et l’implémentation d’outils numériques libres, avec un regard décomplexé et une approche coolaborative.\u003cbr\u003eMembre CHATONS\u003c/p\u003e",
+    "url": "https://pouet.chapril.org/@le_filament",
+    "uri": "https://pouet.chapril.org/users/le_filament",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/650/972/881/original/2f96329593cdc95f.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/650/972/881/original/2f96329593cdc95f.png",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 208,
+    "following_count": 37,
+    "statuses_count": 32,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site",
+        "value": "\u003ca href=\"https://le-filament.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ele-filament.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://blog.le-filament.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eblog.le-filament.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:20:16.714+00:00"
+      },
+      {
+        "name": "Services CHATONS",
+        "value": "\u003ca href=\"https://le-filament.com/services-libres/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ele-filament.com/services-libre\u003c/span\u003e\u003cspan class=\"invisible\"\u003es/\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424584058718",
+    "username": "praticablecoop",
+    "acct": "praticablecoop@mastodon.design",
+    "display_name": "Praticable",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-10-14T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopérative de design numérique\u003c/p\u003e\u003cp\u003eConçoit sites web, outils et interfaces qui favorisent la pratique et la connaissance. Nous travaillons les enjeux écologiques et sociaux du numérique. Pour y répondre, nous rendons les choses accessibles, durables, réglables, partageables, réparables…\u003c/p\u003e\u003cp\u003eBref, praticables.\u003c/p\u003e",
+    "url": "https://mastodon.design/@praticablecoop",
+    "uri": "https://mastodon.design/users/praticablecoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/584/058/718/original/05d31a9053953aaa.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/584/058/718/original/05d31a9053953aaa.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/584/058/718/original/6b7b6a67f3888c9d.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/584/058/718/original/6b7b6a67f3888c9d.png",
+    "followers_count": 645,
+    "following_count": 160,
+    "statuses_count": 82,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://praticable.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epraticable.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424501758419",
+    "username": "silicoop",
+    "acct": "silicoop@mastodon.tetaneutral.net",
+    "display_name": "SILICOOP",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-03-21T00:00:00.000Z",
+    "note": "\u003cp\u003eUn projet de coopérative pour l'électronique libre.\u003c/p\u003e",
+    "url": "https://mastodon.tetaneutral.net/@silicoop",
+    "uri": "https://mastodon.tetaneutral.net/users/silicoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/501/758/419/original/545eaabcafe9e3ab.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/501/758/419/original/545eaabcafe9e3ab.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/501/758/419/original/29b95d467ec8e071.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/501/758/419/original/29b95d467ec8e071.png",
+    "followers_count": 171,
+    "following_count": 25,
+    "statuses_count": 60,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://sili.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esili.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Courriel",
+        "value": "contact@sili.coop",
+        "verified_at": null
+      },
+      {
+        "name": "LinkedIn",
+        "value": "\u003ca href=\"https://www.linkedin.com/company/silicoop/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/company/silicoop/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424429633853",
+    "username": "entrouvert",
+    "acct": "entrouvert@mastodon.libre-entreprise.com",
+    "display_name": "Entr'ouvert SCOP",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2023-01-06T00:00:00.000Z",
+    "note": "\u003cp\u003eGestion de la relation usager, e-administration, gestion d'identité... tout en logiciel libre.\u003c/p\u003e",
+    "url": "https://mastodon.libre-entreprise.com/@entrouvert",
+    "uri": "https://mastodon.libre-entreprise.com/users/entrouvert",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/429/633/853/original/d80f310629cadc73.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/429/633/853/original/d80f310629cadc73.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/429/633/853/original/58efa96a98634846.jpeg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/429/633/853/original/58efa96a98634846.jpeg",
+    "followers_count": 384,
+    "following_count": 21,
+    "statuses_count": 7,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.entrouvert.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eentrouvert.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:15:07.244+00:00"
+      },
+      {
+        "name": "Publik",
+        "value": "\u003ca href=\"https://publik.entrouvert.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epublik.entrouvert.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116159429032423325",
+    "username": "Nereide",
+    "acct": "Nereide@mastodon.libre-entreprise.com",
+    "display_name": "Néréide",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2020-05-06T00:00:00.000Z",
+    "note": "\u003cp\u003eIntégrateur \u003ca href=\"https://mastodon.libre-entreprise.com/tags/ERP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eERP\u003c/span\u003e\u003c/a\u003e du \u003ca href=\"https://mastodon.libre-entreprise.com/tags/LogicielLibre\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLogicielLibre\u003c/span\u003e\u003c/a\u003e Apache OFBiz depuis 2004.\u003c/p\u003e\u003cp\u003eMembre de \u003ca href=\"https://mastodon.libre-entreprise.com/tags/LibreEntreprise\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLibreEntreprise\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.nereide.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003enereide.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.libre-entreprise.com/@Nereide",
+    "uri": "https://mastodon.libre-entreprise.com/users/Nereide",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/159/429/032/423/325/original/f7d19a8e5b0d2137.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/159/429/032/423/325/original/f7d19a8e5b0d2137.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/159/429/032/423/325/original/aa19b3b02278e3e0.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/159/429/032/423/325/original/aa19b3b02278e3e0.png",
+    "followers_count": 147,
+    "following_count": 10,
+    "statuses_count": 15,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116215424345738958",
+    "username": "24eme",
+    "acct": "24eme@mastodon.libre-entreprise.com",
+    "display_name": "24ème",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-11-24T00:00:00.000Z",
+    "note": "\u003cp\u003eSociété coopérative spécialisée dans le développement de logiciels libres pour des communautés de métiers\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.libre-entreprise.com/tags/LogicielLibre\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLogicielLibre\u003c/span\u003e\u003c/a\u003e : tous les logiciels développés sont publiés sous licence libre\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.libre-entreprise.com/tags/Horizontalit%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eHorizontalité\u003c/span\u003e\u003c/a\u003e : une corporation composée uniquement de développeur⋅euses\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.libre-entreprise.com/tags/Transparence\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTransparence\u003c/span\u003e\u003c/a\u003e : les chiffres, comptes et décisions sont accessibles à tous\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.libre-entreprise.com/tags/Agilit%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAgilité\u003c/span\u003e\u003c/a\u003e : dialogue avec les usagers du logiciel et auto-organisation des équipes\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.libre-entreprise.com/tags/GouvernancePartag%C3%A9e\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eGouvernancePartagée\u003c/span\u003e\u003c/a\u003e : une entreprise détenue par ceux qui y travaillent\u003c/p\u003e",
+    "url": "https://mastodon.libre-entreprise.com/@24eme",
+    "uri": "https://mastodon.libre-entreprise.com/users/24eme",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/345/738/958/original/442600666437fe3c.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/345/738/958/original/442600666437fe3c.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/345/738/958/original/6f3d516dc05fca4a.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/345/738/958/original/6f3d516dc05fca4a.jpg",
+    "followers_count": 395,
+    "following_count": 36,
+    "statuses_count": 52,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.24eme.fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003e24eme.fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Forge (github)",
+        "value": "\u003ca href=\"https://github.com/24eme\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/24eme\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "IRC",
+        "value": "\u003ca href=\"https://kiwiirc.com/nextclient/irc.libera.chat/#24eme\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ekiwiirc.com/nextclient/irc.lib\u003c/span\u003e\u003cspan class=\"invisible\"\u003eera.chat/#24eme\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Devenir coopérateur⋅ice",
+        "value": "\u003ca href=\"https://www.24eme.fr/devenir-cooperateurice/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e24eme.fr/devenir-cooperateuric\u003c/span\u003e\u003cspan class=\"invisible\"\u003ee/\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424271399627",
+    "username": "commownfr",
+    "acct": "commownfr@mamot.fr",
+    "display_name": "Commown",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2017-10-18T00:00:00.000Z",
+    "note": "\u003cp\u003eFournisseur militant d’appareils électroniques éco-conçus et de services pour lutter contre l’obsolescence programmée.\u003c/p\u003e",
+    "url": "https://mamot.fr/@commownfr",
+    "uri": "https://mamot.fr/users/commownfr",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/271/399/627/original/1b9e5e8790e415b5.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/271/399/627/original/1b9e5e8790e415b5.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/271/399/627/original/385d6a60a2d7cbe5.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/271/399/627/original/385d6a60a2d7cbe5.png",
+    "followers_count": 1923,
+    "following_count": 178,
+    "statuses_count": 1174,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site Web",
+        "value": "\u003ca href=\"https://commown.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecommown.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Notre campagne avec Telecoop",
+        "value": "\u003ca href=\"https://telecoop.commown.coop/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etelecoop.commown.coop/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424207186955",
+    "username": "telecoop",
+    "acct": "telecoop@framapiaf.org",
+    "display_name": "TeleCoop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2019-11-06T00:00:00.000Z",
+    "note": "\u003cp\u003e🤝 L'opérateur d’intérêt général\u003cbr\u003e🌍 Moins de données, plus de pouvoirs\u003cbr\u003e💪 Membre du collectif des Licoornes et de FairTEC\u003c/p\u003e\u003cp\u003e👉 Retrouvez-nous sur notre site Internet : \u003ca href=\"https://bit.ly/3HhpynC\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebit.ly/3HhpynC\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://framapiaf.org/@telecoop",
+    "uri": "https://framapiaf.org/users/telecoop",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/207/186/955/original/55dc91d7f7c8c066.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/207/186/955/original/55dc91d7f7c8c066.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/207/186/955/original/e83dca09bdffbc76.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/207/186/955/original/e83dca09bdffbc76.png",
+    "followers_count": 1384,
+    "following_count": 13,
+    "statuses_count": 390,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Numerique responsable",
+        "value": "Télécom responsable",
+        "verified_at": null
+      },
+      {
+        "name": "Intérêt collectif",
+        "value": "Coopérative",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215424126814243",
+    "username": "AstrolabeCAE",
+    "acct": "AstrolabeCAE@framapiaf.org",
+    "display_name": "Astrolabe CAE",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2019-04-09T00:00:00.000Z",
+    "note": "\u003cp\u003eCoopérative d'entrepreneur·e·s spécialisée dans le numérique et de préférence libre \u003ca href=\"https://framapiaf.org/tags/SCOP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSCOP\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://framapiaf.org/tags/CAE\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCAE\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://framapiaf.org/tags/ESS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eESS\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://framapiaf.org/tags/FLOSS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eFLOSS\u003c/span\u003e\u003c/a\u003e\u003cbr\u003ePour suivre les COOP sur Masto (Fr) : \u003ca href=\"https://fedidevs.com/s/NDQ3/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efedidevs.com/s/NDQ3/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003eTo follow the COOP on Masto (Worldwide) : \u003ca href=\"https://fedidevs.com/s/NDU1/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efedidevs.com/s/NDU1/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://framapiaf.org/@AstrolabeCAE",
+    "uri": "https://framapiaf.org/users/AstrolabeCAE",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/126/814/243/original/e6a8621c8748dd89.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/126/814/243/original/e6a8621c8748dd89.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/126/814/243/original/46bd5260b8cafc56.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/424/126/814/243/original/46bd5260b8cafc56.jpg",
+    "followers_count": 428,
+    "following_count": 632,
+    "statuses_count": 870,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site Web",
+        "value": "\u003ca href=\"https://www.astrolabe.coop\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eastrolabe.coop\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Liste des COOP FR",
+        "value": "\u003ca href=\"https://fedidevs.com/s/NDQ3/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efedidevs.com/s/NDQ3/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "International COOP",
+        "value": "\u003ca href=\"https://fedidevs.com/s/NDU1/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efedidevs.com/s/NDU1/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215423914864992",
+    "username": "mellium",
+    "acct": "mellium@social.coop",
+    "display_name": "Mellium Co-op :xmpp: :golang:",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2023-08-28T00:00:00.000Z",
+    "note": "\u003cp\u003eA collection of Go :golang: modules for federated instant messaging and presence with XMPP :xmpp:.\u003c/p\u003e\u003cp\u003eMellium is cooperative software and strives to be governed according to the ICA's \"Statement on the Cooperative Identity\".\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://social.coop/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enobot\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.coop/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efedi22\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.coop/tags/xmpp\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003exmpp\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.coop/tags/coop\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecoop\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.coop/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egolang\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://social.coop/@mellium",
+    "uri": "https://social.coop/users/mellium",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/423/914/864/992/original/8dc240fed3b927f9.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/423/914/864/992/original/8dc240fed3b927f9.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/423/914/864/992/original/db5e77a8c3d4ad7c.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/423/914/864/992/original/db5e77a8c3d4ad7c.png",
+    "followers_count": 380,
+    "following_count": 80,
+    "statuses_count": 134,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [
+      {
+        "shortcode": "golang",
+        "url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/377/original/3abb30c79bad6066.png",
+        "static_url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/377/static/3abb30c79bad6066.png",
+        "visible_in_picker": true
+      },
+      {
+        "shortcode": "xmpp",
+        "url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/378/original/a84bf67d50a43c1d.png",
+        "static_url": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/custom_emojis/images/000/012/378/static/a84bf67d50a43c1d.png",
+        "visible_in_picker": true
+      }
+    ],
+    "fields": [
+      {
+        "name": "Web",
+        "value": "\u003ca href=\"https://mellium.im/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emellium.im/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:17:27.263+00:00"
+      },
+      {
+        "name": "Code",
+        "value": "\u003ca href=\"https://codeberg.org/mellium/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecodeberg.org/mellium/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Chat",
+        "value": "\u003ca href=\"https://mellium.chat/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emellium.chat/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Donate",
+        "value": "\u003ca href=\"https://opencollective.com/mellium\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eopencollective.com/mellium\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:17:28.720+00:00"
+      }
+    ]
+  },
+  {
+    "id": "116215424041412650",
+    "username": "3wordchant",
+    "acct": "3wordchant@social.coop",
+    "display_name": "three word chant",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2022-11-21T00:00:00.000Z",
+    "note": "\u003cp\u003eco-initiator of Co-op Cloud (\u003ca href=\"https://coopcloud.tech\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoopcloud.tech\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e / \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.coop/@coopcloud\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003ecoopcloud\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e) · former worker-owner at \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://sunbeam.city/@autonomic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eautonomic\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://social.coop/tags/LibreSoftware\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLibreSoftware\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.coop/tags/Cooperatives\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCooperatives\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.coop/tags/Environment\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eEnvironment\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://social.coop/@3wordchant",
+    "uri": "https://social.coop/users/3wordchant",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/041/412/650/original/70ba9b5e92359e09.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/424/041/412/650/original/70ba9b5e92359e09.jpg",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 140,
+    "following_count": 94,
+    "statuses_count": 666,
+    "last_status_at": null,
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "matrix",
+        "value": "@3wc:autonomic.zone",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116159428981649209",
+    "username": "codelutin",
+    "acct": "codelutin@mastodon.libre-entreprise.com",
+    "display_name": "Code Lutin",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2017-04-14T00:00:00.000Z",
+    "note": "\u003cp\u003eExpertise \u003ca href=\"https://mastodon.libre-entreprise.com/tags/Java\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJava\u003c/span\u003e\u003c/a\u003e et \u003ca href=\"https://mastodon.libre-entreprise.com/tags/Javascript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJavascript\u003c/span\u003e\u003c/a\u003e à \u003ca href=\"https://mastodon.libre-entreprise.com/tags/Nantes\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNantes\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eMembre-fondateur de \u003ca href=\"https://mastodon.libre-entreprise.com/tags/LibreEntreprise\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLibreEntreprise\u003c/span\u003e\u003c/a\u003e, nous sommes une SAS à participation ouvrière : nous pratiquons la démocratie, l'égalité de salaire, la transparence.\u003c/p\u003e",
+    "url": "https://mastodon.libre-entreprise.com/@codelutin",
+    "uri": "https://mastodon.libre-entreprise.com/users/codelutin",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/159/428/981/649/209/original/4e69309e76615613.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/159/428/981/649/209/original/4e69309e76615613.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/159/428/981/649/209/original/7b88239e15fb18a9.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/159/428/981/649/209/original/7b88239e15fb18a9.png",
+    "followers_count": 911,
+    "following_count": 171,
+    "statuses_count": 543,
+    "last_status_at": "2026-03-02",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://www.codelutin.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecodelutin.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "LinuxFR",
+        "value": "\u003ca href=\"https://linuxfr.org/users/lutintern\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinuxfr.org/users/lutintern\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:19:17.053+00:00"
+      }
+    ]
+  },
+  {
+    "id": "116215423825021654",
+    "username": "cooptilleuls",
+    "acct": "cooptilleuls@mastodon.online",
+    "display_name": "Les-Tilleuls.coop",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": false,
+    "group": false,
+    "created_at": "2020-06-04T00:00:00.000Z",
+    "note": "\u003cp\u003eAPI, Web \u0026amp; Cloud Experts. API Platform creators. Symfony core contributors and maintainers. \u003c/p\u003e\u003cp\u003eDevs PHP/JS/Python/Go/Rust. \u003c/p\u003e\u003cp\u003eSelf-managed and egalitarian company (Scop/co-op).\u003c/p\u003e",
+    "url": "https://mastodon.online/@cooptilleuls",
+    "uri": "https://mastodon.online/users/cooptilleuls",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/423/825/021/654/original/262c9eb4c3babef9.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/423/825/021/654/original/262c9eb4c3babef9.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/423/825/021/654/original/f62358eea7f70403.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/423/825/021/654/original/f62358eea7f70403.png",
+    "followers_count": 853,
+    "following_count": 3,
+    "statuses_count": 2038,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Antennes",
+        "value": "Lille, Paris, Nantes, Lyon, Rennes, Montpellier",
+        "verified_at": null
+      },
+      {
+        "name": "Site web",
+        "value": "\u003ca href=\"https://les-tilleuls.coop/fr\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eles-tilleuls.coop/fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Github",
+        "value": "\u003ca href=\"https://github.com/coopTilleuls\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/coopTilleuls\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-12T09:12:19.973+00:00"
+      },
+      {
+        "name": "Languages",
+        "value": "🇫🇷 🇬🇧",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116215423733151333",
+    "username": "dalibo",
+    "acct": "dalibo@mastodon.online",
+    "display_name": "Dalibo",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2020-07-17T00:00:00.000Z",
+    "note": "\u003cp\u003eSCOP\u003cbr\u003eOpen Source\u003cbr\u003ePostgreSQL\u003cbr\u003eTélétravail\u003c/p\u003e",
+    "url": "https://mastodon.online/@dalibo",
+    "uri": "https://mastodon.online/users/dalibo",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/423/733/151/333/original/7819deefeac0a65a.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/215/423/733/151/333/original/7819deefeac0a65a.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/423/733/151/333/original/0e4a0398e5f802ed.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/215/423/733/151/333/original/0e4a0398e5f802ed.png",
+    "followers_count": 411,
+    "following_count": 204,
+    "statuses_count": 752,
+    "last_status_at": "2026-03-12",
+    "hide_collections": false,
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Site Web",
+        "value": "\u003ca href=\"https://www.dalibo.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003edalibo.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Projets Open Source",
+        "value": "\u003ca href=\"https://labs.dalibo.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elabs.dalibo.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://blog.dalibo.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eblog.dalibo.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "Manuels en libre accès",
+        "value": "\u003ca href=\"https://www.dalibo.com/formations\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003edalibo.com/formations\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  }
+]

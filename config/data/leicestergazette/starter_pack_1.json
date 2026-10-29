@@ -1,0 +1,246 @@
+[
+  {
+    "id": "116024283434655334",
+    "username": "leicestergazette",
+    "acct": "leicestergazette@leicester.news",
+    "display_name": "Leicester Gazette",
+    "locked": false,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-02-06T00:00:00.000Z",
+    "note": "The Leicester Gazette is a local, independent newspaper, free to access for all online and in print.\n",
+    "url": "https://www.leicester.news/",
+    "uri": "https://www.leicester.news/.ghost/activitypub/users/index",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/024/283/434/655/334/original/d431a500c4864ad7.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/024/283/434/655/334/original/d431a500c4864ad7.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/024/283/434/655/334/original/d673f61bc759564a.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/024/283/434/655/334/original/d673f61bc759564a.png",
+    "followers_count": 66,
+    "following_count": 0,
+    "statuses_count": 25,
+    "last_status_at": "2026-03-09",
+    "hide_collections": true,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116024279186811796",
+    "username": "listen",
+    "acct": "listen@audio.leicester.news",
+    "display_name": "Leicester Gazette",
+    "locked": false,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-02-06T00:00:00.000Z",
+    "note": "\u003cp\u003eThe Leicester Gazette is a local, independent newspaper, free to access for all online and in print. Our podcast is released on the first Tuesday of every month. Listen on your favourite podcast platform.\u003c/p\u003e\n",
+    "url": "https://audio.leicester.news/@listen",
+    "uri": "https://audio.leicester.news/@listen",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/024/279/186/811/796/original/533a82b8c36edbc0.png",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/avatars/116/024/279/186/811/796/original/533a82b8c36edbc0.png",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/024/279/186/811/796/original/4a0080c72465d75f.png",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/cache/accounts/headers/116/024/279/186/811/796/original/4a0080c72465d75f.png",
+    "followers_count": 4,
+    "following_count": 0,
+    "statuses_count": 13,
+    "last_status_at": "2026-03-03",
+    "hide_collections": true,
+    "emojis": [],
+    "fields": []
+  },
+  {
+    "id": "116295592790626434",
+    "username": "emma",
+    "acct": "emma",
+    "display_name": "Emma",
+    "locked": false,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-03-26T00:00:00.000Z",
+    "note": "\u003cp\u003eEditor Leicester Gazette\u003c/p\u003e",
+    "url": "https://leicester.chat/@emma",
+    "uri": "https://leicester.chat/ap/users/116295592790626434",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/295/592/790/626/434/original/815cdcb258d3e58c.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/295/592/790/626/434/original/815cdcb258d3e58c.jpg",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 7,
+    "following_count": 13,
+    "statuses_count": 7,
+    "last_status_at": "2026-04-11",
+    "hide_collections": null,
+    "noindex": true,
+    "emojis": [],
+    "roles": [
+      {
+        "id": "3",
+        "name": "Official",
+        "color": "#000000"
+      }
+    ],
+    "fields": [
+      {
+        "name": "Leicesters Independent paper",
+        "value": "\u003ca href=\"https://www.leicester.news\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eleicester.news\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116084814564761790",
+    "username": "rhys",
+    "acct": "rhys",
+    "display_name": "Rhys Everquill",
+    "locked": false,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-02-17T00:00:00.000Z",
+    "note": "\u003cp\u003eCommunity Lead @ Leicester Gazette. \u003c/p\u003e\u003cp\u003eThey/Them\u003c/p\u003e",
+    "url": "https://leicester.chat/@rhys",
+    "uri": "https://leicester.chat/ap/users/116084814564761790",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/084/814/564/761/790/original/4622a6aa1b749c0f.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/084/814/564/761/790/original/4622a6aa1b749c0f.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/headers/116/084/814/564/761/790/original/daba109b97d29218.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/headers/116/084/814/564/761/790/original/daba109b97d29218.jpg",
+    "followers_count": 14,
+    "following_count": 55,
+    "statuses_count": 44,
+    "last_status_at": "2026-04-11",
+    "hide_collections": true,
+    "noindex": true,
+    "emojis": [],
+    "roles": [
+      {
+        "id": "3",
+        "name": "Official",
+        "color": "#000000"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "id": "116328540974248361",
+    "username": "megan",
+    "acct": "megan",
+    "display_name": "Meg Lupton",
+    "locked": false,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-04-01T00:00:00.000Z",
+    "note": "",
+    "url": "https://leicester.chat/@megan",
+    "uri": "https://leicester.chat/ap/users/116328540974248361",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/328/540/974/248/361/original/544a189778ceea86.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/328/540/974/248/361/original/544a189778ceea86.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/headers/116/328/540/974/248/361/original/77eec61c34176a1a.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/headers/116/328/540/974/248/361/original/77eec61c34176a1a.jpg",
+    "followers_count": 7,
+    "following_count": 18,
+    "statuses_count": 6,
+    "last_status_at": "2026-04-11",
+    "hide_collections": null,
+    "noindex": true,
+    "emojis": [],
+    "roles": [
+      {
+        "id": "3",
+        "name": "Official",
+        "color": "#000000"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "id": "116295595535917071",
+    "username": "devon",
+    "acct": "devon",
+    "display_name": "Devon Winters",
+    "locked": false,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-03-26T00:00:00.000Z",
+    "note": "\u003cp\u003eThe \u0026quot;Man on the ground\u0026quot;. Documenting Leicester and beyond. Reporter \u0026amp; Photographer @ Leicester Gazette.\u003c/p\u003e",
+    "url": "https://leicester.chat/@devon",
+    "uri": "https://leicester.chat/ap/users/116295595535917071",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/295/595/535/917/071/original/cacb0c0c8616a6ca.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/295/595/535/917/071/original/cacb0c0c8616a6ca.jpg",
+    "header": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/headers/116/295/595/535/917/071/original/5f04114e9541ac6b.jpg",
+    "header_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/headers/116/295/595/535/917/071/original/5f04114e9541ac6b.jpg",
+    "followers_count": 9,
+    "following_count": 6,
+    "statuses_count": 38,
+    "last_status_at": "2026-04-18",
+    "hide_collections": null,
+    "noindex": true,
+    "emojis": [],
+    "roles": [
+      {
+        "id": "3",
+        "name": "Official",
+        "color": "#000000"
+      }
+    ],
+    "fields": [
+      {
+        "name": "Leicester Gazette",
+        "value": "\u003ca href=\"https://www.leicester.news/\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eleicester.news/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "My Stories",
+        "value": "\u003ca href=\"https://www.leicester.news/author/devon/\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eleicester.news/author/devon/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      },
+      {
+        "name": "My Photos",
+        "value": "\u003ca href=\"https://flic.kr/s/aHBqjCnPED\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eflic.kr/s/aHBqjCnPED\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": null
+      }
+    ]
+  },
+  {
+    "id": "116295591995577165",
+    "username": "joseph",
+    "acct": "joseph",
+    "display_name": "",
+    "locked": true,
+    "bot": false,
+    "discoverable": false,
+    "indexable": false,
+    "group": false,
+    "created_at": "2026-03-26T00:00:00.000Z",
+    "note": "",
+    "url": "https://leicester.chat/@joseph",
+    "uri": "https://leicester.chat/ap/users/116295591995577165",
+    "avatar": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/295/591/995/577/165/original/09b18c902f49ffea.jpg",
+    "avatar_static": "https://s3-eu-west-2.amazonaws.com/leicester-mastodon/accounts/avatars/116/295/591/995/577/165/original/09b18c902f49ffea.jpg",
+    "header": "https://leicester.chat/headers/original/missing.png",
+    "header_static": "https://leicester.chat/headers/original/missing.png",
+    "followers_count": 6,
+    "following_count": 5,
+    "statuses_count": 21,
+    "last_status_at": "2026-04-11",
+    "hide_collections": null,
+    "noindex": true,
+    "emojis": [],
+    "roles": [
+      {
+        "id": "3",
+        "name": "Official",
+        "color": "#000000"
+      }
+    ],
+    "fields": []
+  }
+]

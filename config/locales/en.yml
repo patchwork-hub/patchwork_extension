@@ -1,0 +1,20 @@
+---
+# AUTH-06: API response message keys used by
+# PatchworkExtensions::Concerns::ApiResponseHelper consumers. Duplicated from
+# Gem A (newsmast_mastodon) so Gem B keeps working once Gem A's AUTH-06
+# controllers are removed after the verification window. Values are identical;
+# while both gems are loaded the duplicate keys are harmless.
+en:
+  api:
+    errors:
+      not_found: Resource not found
+      unprocessable_entity: The request could not be processed
+      validation_failed: Validation failed!
+      invalid_request: Invalid request!
+    messages:
+      success: Operation completed successfully
+      updated: Resource updated successfully
+      deleted: Resource deleted successfully
+    account:
+      errors:
+        password_incorrect: Current password is incorrect

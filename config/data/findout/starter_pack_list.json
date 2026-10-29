@@ -1,0 +1,55 @@
+[
+  {
+    "id": "2",
+    "title": "Shitposters of the Fediverse",
+    "description": "Posters that primarily post jokes, likely with some level of internet-poisoned brain rot. (Some politics and other interests may be included) Many (but not all) are users who were/are on bluesky.",
+    "collected_by": {
+      "id": "114775941155788481",
+      "username": "gregthemiller",
+      "acct": "gregthemiller@beige.party",
+      "display_name": "Greg the Miller",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2025-06-30T00:00:00.000Z",
+      "note": "\u003cp\u003e(he/him) bidet and star trek enthusiast. certified cornball.\u003c/p\u003e",
+      "url": "https://beige.party/@gregthemiller",
+      "uri": "https://beige.party/users/gregthemiller",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/114/775/941/155/788/481/original/49f841ab1ed6eded.png%22",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/114/775/941/155/788/481/original/49f841ab1ed6eded.png%22",
+      "header": "https://files.mastodon.social/cache/accounts/headers/114/775/941/155/788/481/original/3abbf3325ea63c36.jpg%22",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/114/775/941/155/788/481/original/3abbf3325ea63c36.jpg%22",
+      "followers_count": 841,
+      "following_count": 373,
+      "statuses_count": 4900,
+      "last_status_at": "2025-12-11",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "header alt-text",
+          "value": "collage of posts: “I’m getting real close to muting Greg” “greg is the mouth piece of the bidet” “Don’t start with me, GREG” “OMG, GREG. You’re out of the fishing trip” “I can’t believe you Greg” “oh. my. god. GREG! WTH???",
+          "verified_at": null
+        },
+        {
+          "name": "pfp alt-text",
+          "value": "a selfie of a guy with a beard wearing a Mr. Robot white hat, large aviator sunglasses, a brown coat, and a checkered scarf (mimicing Christian Slater) with a crooked grin",
+          "verified_at": null
+        },
+        {
+          "name": "bluesky",
+          "value": "gregthemiller.bsky.social",
+          "verified_at": null
+        },
+        {
+          "name": "shitposters of the fediverse starter pack",
+          "value": "\u003ca href=\"https://fedidevs.com/s/NjQ5/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efedidevs.com/s/NjQ5/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "total_accounts": 102
+  }
+]

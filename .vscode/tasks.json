@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "rspec: standalone",
+      "type": "shell",
+      "command": "bundle exec rspec",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "rspec: host (MASTODON_ROOT)",
+      "type": "shell",
+      "command": "bundle exec rspec",
+      "options": {
+        "env": {
+          "MASTODON_ROOT": "${input:mastodonRoot}",
+          "BUNDLE_GEMFILE": "${input:mastodonRoot}/Gemfile"
+        }
+      },
+      "group": "test",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "mastodonRoot",
+      "type": "promptString",
+      "description": "Absolute path to the Mastodon host app checkout"
+    }
+  ]
+}
