@@ -34,6 +34,13 @@ PatchworkExtensions::Engine.routes.draw do
 
         # AUTH-06: Account Deletion (extracted from newsmast_mastodon)
         resources :account_deletion, only: [ :destroy ]
+
+        # MEDIA-01: AI Alt Text user settings (extracted from newsmast_mastodon)
+        resources :alttext_settings, only: [ :index ] do
+          collection do
+            post "/alttext", to: "alttext_settings#change_alttext_setting"
+          end
+        end
       end
 
       # FEED-02: For You and Mixed Channel Timeline (extracted from newsmast_mastodon)

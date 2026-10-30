@@ -22,3 +22,28 @@ unless defined?(Redisable)
     end
   end
 end
+
+# RoutingHelper – URL helpers mixin included by AfterUploadImageService
+# (MEDIA-01). Only needs to exist so the service class can load standalone.
+unless defined?(RoutingHelper)
+  module RoutingHelper
+    def full_asset_url(*); end
+  end
+end
+
+# Sidekiq::Worker – minimal fallback so Gem B workers (MEDIA-01) can load
+# standalone. Sidekiq itself is provided at runtime by the host Mastodon app.
+unless defined?(Sidekiq::Worker)
+  module Sidekiq
+    module Worker
+      def self.included(base)
+        base.extend(ClassMethods)
+      end
+
+      module ClassMethods
+        def sidekiq_options(*); end
+        def perform_async(*); end
+      end
+    end
+  end
+end
