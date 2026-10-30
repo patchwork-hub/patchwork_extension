@@ -526,6 +526,99 @@ timeline key), so no other cleanup is needed; Gem A's service copy never left.
 
 ---
 
+## MEDIA-01: AI Alt Text and User Preferences
+
+**Status:** Verified against host (2026-10-29).
+**Cutover state:** COMPLETE — Gem A's `resources :alttext_settings` routes
+block and the alt-text parts of Gem A's `MediaAttachmentConcern` are commented
+out (marked `GEM_SPLIT[MEDIA-01]`); Gem B serves the endpoints and registers
+the `after_save` callback via its own
+`config/initializers/prepend_concerns.rb`. Gem A keeps its
+worker/service/wrapper classes for in-flight jobs (INFRA-05), same treatment
+as BOOST-01's retained service. Remove the Gem A controller, the commented
+routes/concern blocks and the retained classes after the verification window.
+
+### Expected behavior (must be identical after the split)
+
+| Aspect | Contract |
+| --- | --- |
+| Index endpoint | `GET /api/v1/patchwork/alttext_settings` → `200 { "message": ..., "data": <bool> }` |
+| Toggle endpoint | `POST /api/v1/patchwork/alttext_settings/alttext` with `enabled` → updates `users.alttext_enabled`, returns the new value in `data` |
+| Auth | `doorkeeper_authorize! :read, :write` then `require_user!`; unauthenticated requests get Doorkeeper's 401 (doorkeeper runs first, same as AUTH-06's `/patchwork/account_deletion`) |
+| Missing/non-boolean `enabled` | Boolean cast yields nil → `users.alttext_enabled` NOT NULL violation raises (quirk preserved unchanged; flagged for follow-up review) |
+| Callback | `MediaAttachment` `after_save` queues the worker only when `ALT_TEXT_ENABLED=true` and `can_generate_alt?` passes |
+| `can_generate_alt?` | Valid content type (`image/jpeg|jpg|png|gif|webp|bmp`), no existing description, locally authored, and user opt-in per `ALT_TEXT_USER_TOGGLE` / `SKIP_ALT_TEXT_USER_SETTING` |
+| Worker | `PatchworkExtensions::GenerateAltTextWorker`, queue `default`, retry 2, `dead: false`, `retry_in` 24h |
+| Service | Checks account usage limit, posts the image URL to AltText.ai, writes the result via `update_column(:description, ...)`; provider failures log and swallow |
+| Configuration | `ALT_TEXT_URL`, `ALT_TEXT_SECRET` ENV vars; alttext.ai is the only supported provider |
+
+### Original sources (Gem A)
+
+- `app/controllers/newsmast_mastodon/api/v1/patchwork/alttext_settings_controller.rb`
+- `app/models/newsmast_mastodon/concerns/media_attachment_concern.rb` (alt-text parts)
+- `app/services/newsmast_mastodon/{alt_text_ai_api_service,after_upload_image_service}.rb`
+- `app/models/newsmast_mastodon/{alttext_get_account,alttext_create_image}.rb`
+- `app/workers/newsmast_mastodon/generate_alt_text_worker.rb`
+- `config/routes.rb` (`resources :alttext_settings` block),
+  `config/initializers/prepend_concerns.rb` (`MediaAttachment.include`)
+
+### Destination sources (Gem B)
+
+- `app/controllers/patchwork_extensions/api/v1/patchwork/alttext_settings_controller.rb`
+- `app/models/patchwork_extensions/concerns/media_attachment_concern.rb`
+- `app/models/patchwork_extensions/{alttext_get_account,alttext_create_image}.rb`
+- `app/services/patchwork_extensions/{alt_text_ai_api_service,after_upload_image_service}.rb`
+- `app/workers/patchwork_extensions/generate_alt_text_worker.rb`
+- `config/initializers/prepend_concerns.rb`, `config/routes.rb`
+
+### Intentional changes during extraction
+
+- The draft-post (`patchwork_drafted_status`) association and the
+  `attached`/`unattached` scopes did **not** move; they stay in Gem A's concern
+  with POST-01. Gem B's concern carries only the alt-text behavior.
+- New `config/initializers/prepend_concerns.rb` mirrors Gem A's `to_prepare`
+  wiring, guarded by `defined?(MediaAttachment)` so the dummy app boots.
+- `IMAGE_ALLOW_TYPES` is now defined once, by Gem B's concern (Gem A's copy is
+  commented out), so host boot emits no duplicate-constant warning and the
+  callback is not registered twice.
+- `spec/support/mastodon_stubs.rb` gained guarded `RoutingHelper` and
+  `Sidekiq::Worker` stubs so the new classes load standalone; Sidekiq itself
+  remains host-provided at runtime.
+- Gem A's `NewsmastMastodon::GenerateAltTextWorker` and its collaborators stay
+  so jobs queued before the cutover still deserialize; they resolve
+  `can_generate_alt?` through Gem B's concern while both gems are loaded.
+
+### Verification commands and results
+
+| Date | Command | Result |
+| --- | --- | --- |
+| 2026-10-29 | `bundle exec rspec` (standalone, full suite) | 88 examples, 0 failures, 68 pending (host-gated request specs skip by design) |
+| 2026-10-29 | `MASTODON_ROOT=<host> BUNDLE_GEMFILE=<host>/Gemfile bundle exec rspec spec/requests/patchwork_extensions/api/v1/patchwork/alttext_settings_spec.rb spec/services/patchwork_extensions/alt_text_ai_api_service_spec.rb spec/models/patchwork_extensions/concerns/media_attachment_concern_spec.rb` | 17 examples, 0 failures |
+| 2026-10-29 | `MASTODON_ROOT=<host> BUNDLE_GEMFILE=<host>/Gemfile bundle exec rspec` (full suite, host mode) | 88 examples, 6 failures — all pre-existing COMMUNITY-03 channels drift (see Problems) |
+| 2026-10-29 | Gem A: `bundle exec rspec spec/routing/routes_spec.rb spec/services/newsmast_mastodon/alt_text_ai_api_service_spec.rb spec/workers/newsmast_mastodon/generate_alt_text_worker_spec.rb` | 7 examples, 0 failures |
+| 2026-10-29 | Gem A: `bundle exec rspec spec/integration/prepend_concerns_spec.rb` | 7 examples, 0 failures, 7 pending (host-gated) |
+
+### Problems and resolutions
+
+- The "missing `enabled` param" example initially expected the flag to toggle
+  to false; the actual Gem A contract casts the param to nil and violates the
+  host's `users.alttext_enabled` NOT NULL constraint. Spec corrected to assert
+  the raised `ActiveRecord::NotNullViolation`; the quirk is preserved unchanged
+  and flagged for follow-up review.
+- Pre-existing COMMUNITY-03 drift surfaced in the full host-mode suite (6
+  `channels_spec` failures with data-dependent fixture expectations). Confirmed
+  identical at HEAD before this change via a stashed re-run; unrelated to
+  MEDIA-01 and left for the COMMUNITY-03 follow-up.
+
+### Rollback
+
+Uncomment the Gem A `GEM_SPLIT[MEDIA-01]` routes block and the alt-text block
+in Gem A's `media_attachment_concern.rb`, and remove Gem B from the host
+Gemfile. Gem A's worker/service/wrapper classes never left, so queued-job
+compatibility is unaffected; the feature adds no migrations or Redis keys.
+
+---
+
 ## Template for the next feature
 
 ```markdown
