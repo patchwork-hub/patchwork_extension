@@ -11,4 +11,13 @@ Rails.application.config.to_prepare do
   # Gem A's copy keeps only the draft-post associations (POST-01); its
   # alt-text callback is disabled there so the worker is not queued twice.
   MediaAttachment.include(PatchworkExtensions::Concerns::MediaAttachmentConcern)
+
+  # --- Accounts ---
+  # AUTH-04: CiviCRM membership gate, community-admin creation and role
+  # assignment enqueue on signup — extracted from Gem A's AccountsCreation
+  # concern. Gem A's prepend is disabled at cutover so the create override is
+  # not applied twice.
+  if defined?(Api::V1::AccountsController)
+    Api::V1::AccountsController.prepend(PatchworkExtensions::Concerns::AccountsCreation)
+  end
 end

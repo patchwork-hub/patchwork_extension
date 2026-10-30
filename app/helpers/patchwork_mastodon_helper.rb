@@ -1,12 +1,21 @@
 # frozen_string_literal: true
 
-# NewsmastMastodon::CommunityAdmin, so there is now a single unified helper.
+# Shared presence/capability checks for Gem B features that consume Gem A's
+# patchwork tables (server_settings, patchwork_communities_admins — both stay
+# Gem A-owned) plus the host's per-domain product switches. Replaces Gem A's
+# separate PatchworkHelper, MoMeHelper and NonChannelHelper with a single
+# unified helper.
 module PatchworkMastodonHelper
-  extend ActiveSupport::Concern
-
   def patchwork_table_exists?(table_name)
     ActiveRecord::Base.connection.data_source_exists?(table_name)
-  rescue ActiveRecord::NoDatabaseError, ActiveRecord::ConnectionNotEstablished, PG::ConnectionBad
+  rescue ActiveRecord::NoDatabaseError, ActiveRecord::ConnectionNotEstablished
+    false
+  rescue StandardError => e
+    # pg may not be loaded in standalone (dummy-app) mode; rescuing
+    # PG::ConnectionBad unconditionally would raise NameError while handling
+    # a connection error there.
+    raise unless defined?(PG::ConnectionBad) && e.is_a?(PG::ConnectionBad)
+
     false
   end
 

@@ -61,6 +61,9 @@ PatchworkExtensions::Engine.routes.draw do
         end
       end
 
+      # AUTH-04: CiviCRM role assignment self-service (extracted from newsmast_mastodon)
+      post "civicrm_role_assign", to: "civicrm_role_assignments#create"
+
       # AUTH-06: Account Deletion and Locale Preferences (extracted from newsmast_mastodon)
       post "/delete_account", to: "accounts#delete_account"
       resources :user_locales, only: [ :create ]

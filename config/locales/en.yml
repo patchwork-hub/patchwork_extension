@@ -18,3 +18,5 @@ en:
     account:
       errors:
         password_incorrect: Current password is incorrect
+        # AUTH-04: signup membership gate (value identical to Gem A's)
+        membership_not_eligible: Registration is only open to Core members, CSIDNet Team, and Supporter members

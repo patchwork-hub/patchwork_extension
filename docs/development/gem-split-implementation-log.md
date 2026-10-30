@@ -619,6 +619,113 @@ compatibility is unaffected; the feature adds no migrations or Redis keys.
 
 ---
 
+## AUTH-04: CiviCRM Membership, Profile Fields and Roles
+
+**Status:** Verified
+**Cutover state:** Gem B serves POST /api/v1/civicrm_role_assign and the
+`Api::V1::AccountsController` create override; Gem A's route and
+AccountsCreation prepend are commented out (`GEM_SPLIT[AUTH-04]`).
+
+### Expected behavior (must be identical after the split)
+
+- Signup via POST /api/v1/accounts is gated by the CiviCRM membership check
+  when `CSID_MEMBERSHIP_CHECK_ENABLED` is set; non-members get 422 with the
+  `api.account.errors.membership_not_eligible` message and AppSignUpService is
+  never called. Allowlisted emails (`CSID_MEMBERSHIP_ALLOWLIST_EMAILS`) skip
+  the remote check.
+- Successful signup still creates the community admin record on channel
+  domains, generates the OTP token mail (AUTH-01 behavior, still served by Gem
+  A's CustomPasswordsMailer) and enqueues CiviCRM role assignment when
+  `CSID_ROLE_ASSIGNMENT_ENABLED` is set.
+- POST /api/v1/civicrm_role_assign enqueues a role check for the current user
+  (202), 401 without a token, 403 when disabled or without the write scope.
+- The worker maps CiviCRM groups 15/16/3 to Committee member/WG member/Staff
+  (priority order), never overwrites an existing role, retries on transient
+  API failures and skips with a log line when the UserRole is missing.
+- The badge-field and role backfill tasks keep DRY_RUN/BATCH_SIZE/EMAIL/ASYNC
+  semantics; in Gem B they run under the `patchwork_extensions:` namespace.
+
+### Original sources (Gem A)
+
+- `app/services/newsmast_mastodon/civicrm_membership_check_service.rb`
+- `app/services/newsmast_mastodon/civicrm_role_check_service.rb`
+- `app/workers/newsmast_mastodon/civicrm_role_assignment_worker.rb`
+- `app/controllers/newsmast_mastodon/api/v1/civicrm_role_assignments_controller.rb`
+  (missing from the checklist's original source list; discovered during
+  extraction via spec/requests/newsmast_mastodon/api/v1/civicrm_role_assignments_spec.rb)
+- `app/controllers/newsmast_mastodon/concerns/accounts_creation.rb`
+- `lib/tasks/newsmast_mastodon/csid_membership_fields.rake`,
+  `lib/tasks/newsmast_mastodon/csid_role_assignment.rake`
+- `config/routes.rb` (`post "civicrm_role_assign"`) and the AccountsCreation
+  prepend in `config/initializers/prepend_concerns.rb`
+
+### Destination sources (Gem B)
+
+- `app/services/patchwork_extensions/civicrm_membership_check_service.rb`,
+  `app/services/patchwork_extensions/civicrm_role_check_service.rb` — verbatim
+  extractions (request contract, ENV vars, Result structs unchanged).
+- `app/workers/patchwork_extensions/civicrm_role_assignment_worker.rb` — same
+  queue (`default`), retry (3) and group-to-role mapping.
+- `app/controllers/patchwork_extensions/api/v1/civicrm_role_assignments_controller.rb`
+  — same URL, OAuth scope (`write`) and response shapes via Gem B's
+  ApiResponseHelper.
+- `app/controllers/patchwork_extensions/concerns/accounts_creation.rb` —
+  monolithic create override copied; includes the unified
+  `PatchworkMastodonHelper` instead of Gem A's NonChannelHelper/PatchworkHelper/
+  MoMeHelper.
+- `config/initializers/prepend_concerns.rb` — prepends the concern into
+  `Api::V1::AccountsController` (guarded), same `to_prepare` pattern as Gem A.
+- `lib/tasks/patchwork_extensions/csid_membership_fields.rake`,
+  `csid_role_assignment.rake` — re-namespaced to `patchwork_extensions:`.
+- `config/locales/en.yml` — duplicated `api.account.errors.membership_not_eligible`
+  (English only).
+
+### Intentional changes during extraction
+
+- The patchwork tables stay Gem A-owned: `create_community_admin` instantiates
+  `NewsmastMastodon::CommunityAdmin` only behind the helper's guarded
+  `patchwork_community_admin_exist?` check; no Gem B migrations.
+- `PatchworkMastodonHelper#patchwork_table_exists?` now guards
+  `PG::ConnectionBad` behind `defined?(PG::ConnectionBad)` — the pg gem is not
+  loaded in Gem B's standalone dummy app, and an unqualified rescue would have
+  raised NameError while handling a connection error.
+- Gem A's membership/role services, worker and rake tasks are retained
+  unchanged so in-flight `NewsmastMastodon::CivicrmRoleAssignmentWorker` jobs
+  still deserialize (INFRA-05) and ops runbooks keep working during the
+  verification window; Gem B's tasks use new names to avoid double-definition.
+- Gem B's dummy app now requires `active_model/railtie` — the extracted
+  ENV-flag casts (`ActiveModel::Type::Boolean`) need ActiveModel, which the
+  dummy previously did not load.
+- Gem A's request specs for both endpoints were deleted at cutover (moved to
+  Gem B); its service/worker/concern unit specs stay while the classes are
+  retained.
+
+### Verification commands and results
+
+| Date | Command | Result |
+| --- | --- | --- |
+| 2026-10-30 | `bundle exec rspec` (standalone, full suite) | 124 examples, 0 failures, 73 pending (host-gated request specs skip by design) |
+| 2026-10-30 | `MASTODON_ROOT=<host> BUNDLE_GEMFILE=<host>/Gemfile bundle exec rspec spec/requests/patchwork_extensions/api/v1/civicrm_role_assignments_spec.rb spec/requests/patchwork_extensions/api/v1/accounts_registration_membership_spec.rb spec/services/patchwork_extensions spec/workers/patchwork_extensions spec/controllers/patchwork_extensions/concerns/accounts_creation_spec.rb` | 61 examples, 0 failures |
+| 2026-10-30 | `MASTODON_ROOT=<host> BUNDLE_GEMFILE=<host>/Gemfile bundle exec rspec` (full suite, host mode) | 124 examples, 6 failures — all pre-existing COMMUNITY-03 channels drift (same set as recorded under MEDIA-01) |
+| 2026-10-30 | Gem A: `bundle exec rspec spec/routing spec/services/newsmast_mastodon/civicrm_membership_check_service_spec.rb spec/services/newsmast_mastodon/civicrm_role_check_service_spec.rb spec/workers/newsmast_mastodon/civicrm_role_assignment_worker_spec.rb spec/controllers/newsmast_mastodon/concerns/accounts_creation_spec.rb spec/integration/prepend_concerns_spec.rb` | 42 examples, 0 failures, 7 pending (host-gated) |
+
+### Problems and resolutions
+
+- First standalone run failed 5 examples with a rescued
+  `NameError: uninitialized constant ...::ActiveModel` — the dummy app only
+  required `action_controller/railtie`. Fixed in the harness
+  (`active_model/railtie` require), not in the extracted code, which stays
+  verbatim.
+
+### Rollback
+
+Uncomment the Gem A `GEM_SPLIT[AUTH-04]` route line and the AccountsCreation
+prepend, and remove Gem B from the host Gemfile. Gem A's services, worker and
+rake tasks never left, so queued-job compatibility and operations are
+unaffected; the feature adds no migrations or Redis keys.
+
+---
+
 ## Template for the next feature
 
 ```markdown

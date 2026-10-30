@@ -2,6 +2,9 @@
 
 require "rails"
 require "action_controller/railtie"
+# AUTH-04 services and controllers use ActiveModel::Type::Boolean for ENV flag
+# casting; the dummy app must load ActiveModel for standalone specs.
+require "active_model/railtie"
 
 require "patchwork_extensions"
 
